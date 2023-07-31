@@ -1,0 +1,1001 @@
+Age,Gender,Education Level,Job Title,Years of Experience,Salary
+30.0,Female,PhD,Data Scientist,7.0,170000.0
+31.0,Male,Bachelor's,Data Analyst,9.0,190000.0
+28.0,Female,Bachelor's,Software Engineer,5.0,150000.0
+26.0,Male,Bachelor's,Data Analyst,3.0,120000.0
+29.0,Female,Master's,Data Scientist,6.0,150000.0
+32.0,Male,Bachelor's,Software Engineer,8.0,180000.0
+33.0,Female,Master's,Product Manager,11.0,195000.0
+24.0,Male,Bachelor's,Data Analyst,2.0,95000.0
+27.0,Male,Bachelor's,Software Engineer,4.0,160000.0
+25.0,Female,Bachelor's,Data Analyst,2.0,100000.0
+30.0,Female,PhD,Data Scientist,7.0,170000.0
+31.0,Male,Bachelor's,Data Analyst,9.0,190000.0
+28.0,Female,Bachelor's,Software Engineer,5.0,150000.0
+26.0,Male,Bachelor's,Data Analyst,3.0,120000.0
+29.0,Female,Master's,Data Scientist,6.0,150000.0
+32.0,Male,Bachelor's,Software Engineer,8.0,180000.0
+33.0,Female,Master's,Product Manager,11.0,195000.0
+24.0,Male,Bachelor's,Data Analyst,2.0,95000.0
+27.0,Male,Bachelor's,Software Engineer,4.0,160000.0
+25.0,Female,Bachelor's,Data Analyst,2.0,100000.0
+30.0,Female,PhD,Data Scientist,7.0,170000.0
+31.0,Male,Bachelor's,Data Analyst,9.0,190000.0
+28.0,Female,Bachelor's,Software Engineer,5.0,150000.0
+26.0,Male,Bachelor's,Data Analyst,3.0,120000.0
+29.0,Female,Master's,Data Scientist,6.0,150000.0
+32.0,Male,Bachelor's,Software Engineer,8.0,180000.0
+33.0,Female,Master's,Product Manager,11.0,195000.0
+24.0,Male,Bachelor's,Data Analyst,2.0,95000.0
+27.0,Male,Bachelor's,Software Engineer,4.0,160000.0
+25.0,Female,Bachelor's,Data Analyst,2.0,100000.0
+30.0,Female,PhD,Data Scientist,7.0,170000.0
+31.0,Male,Bachelor's,Data Analyst,9.0,190000.0
+28.0,Female,Bachelor's,Software Engineer,5.0,150000.0
+26.0,Male,Bachelor's,Data Analyst,3.0,120000.0
+29.0,Female,Master's,Data Scientist,6.0,150000.0
+32.0,Male,Bachelor's,Software Engineer,8.0,180000.0
+33.0,Female,Master's,Product Manager,11.0,195000.0
+24.0,Male,Bachelor's,Data Analyst,2.0,95000.0
+27.0,Male,Bachelor's,Software Engineer,4.0,160000.0
+25.0,Female,Bachelor's,Data Analyst,2.0,100000.0
+30.0,Female,PhD,Data Scientist,7.0,170000.0
+31.0,Male,Bachelor's,Data Analyst,9.0,190000.0
+28.0,Female,Bachelor's,Software Engineer,5.0,150000.0
+26.0,Male,Bachelor's,Data Analyst,3.0,120000.0
+29.0,Female,Master's,Data Scientist,6.0,150000.0
+32.0,Male,Bachelor's,Software Engineer,8.0,180000.0
+33.0,Female,Master's,Product Manager,11.0,195000.0
+24.0,Male,Bachelor's,Data Analyst,2.0,95000.0
+27.0,Male,Bachelor's,Software Engineer,4.0,160000.0
+25.0,Female,Bachelor's,Data Analyst,2.0,100000.0
+30.0,Female,PhD,Data Scientist,7.0,170000.0
+31.0,Male,Bachelor's,Data Analyst,9.0,190000.0
+28.0,Female,Bachelor's,Software Engineer,5.0,150000.0
+26.0,Male,Bachelor's,Data Analyst,3.0,120000.0
+29.0,Female,Master's,Data Scientist,6.0,150000.0
+32.0,Male,Bachelor's,Software Engineer,8.0,180000.0
+33.0,Female,Master's,Product Manager,11.0,195000.0
+24.0,Male,Bachelor's,Data Analyst,2.0,95000.0
+27.0,Male,Bachelor's,Software Engineer,4.0,160000.0
+25.0,Female,Bachelor's,Data Analyst,2.0,100000.0
+30.0,Female,PhD,Data Scientist,7.0,170000.0
+31.0,Male,Bachelor's,Data Analyst,9.0,190000.0
+28.0,Female,Bachelor's,Software Engineer,5.0,150000.0
+26.0,Male,Bachelor's,Data Analyst,3.0,120000.0
+29.0,Female,Master's,Data Scientist,6.0,150000.0
+32.0,Male,Bachelor's,Software Engineer,8.0,180000.0
+33.0,Female,Master's,Product Manager,11.0,195000.0
+24.0,Male,Bachelor's,Data Analyst,2.0,95000.0
+27.0,Male,Bachelor's,Software Engineer,4.0,160000.0
+25.0,Female,Bachelor's,Data Analyst,2.0,100000.0
+30.0,Female,PhD,Data Scientist,7.0,170000.0
+31.0,Male,Bachelor's,Data Analyst,9.0,190000.0
+28.0,Female,Bachelor's,Software Engineer,5.0,150000.0
+26.0,Male,Bachelor's,Data Analyst,3.0,120000.0
+29.0,Female,Master's,Data Scientist,6.0,150000.0
+32.0,Male,Bachelor's,Software Engineer,8.0,180000.0
+33.0,Female,Master's,Product Manager,11.0,195000.0
+24.0,Male,Bachelor's,Data Analyst,2.0,95000.0
+27.0,Male,Bachelor's,Software Engineer,4.0,160000.0
+25.0,Female,Bachelor's,Data Analyst,2.0,100000.0
+30.0,Female,PhD,Data Scientist,7.0,170000.0
+31.0,Male,Bachelor's,Data Analyst,9.0,190000.0
+28.0,Female,Bachelor's,Software Engineer,5.0,150000.0
+26.0,Male,Bachelor's,Data Analyst,3.0,120000.0
+29.0,Female,Master's,Data Scientist,6.0,150000.0
+32.0,Male,Bachelor's,Software Engineer,8.0,180000.0
+33.0,Female,Master's,Product Manager,11.0,195000.0
+24.0,Male,Bachelor's,Data Analyst,2.0,95000.0
+27.0,Male,Bachelor's,Software Engineer,4.0,160000.0
+25.0,Female,Bachelor's,Data Analyst,2.0,100000.0
+30.0,Female,PhD,Data Scientist,7.0,170000.0
+29.0,Male,Bachelor's,Software Engineer,7.0,180000.0
+27.0,Female,Bachelor's,Data Analyst,5.0,120000.0
+33.0,Male,Master's,Data Scientist,10.0,195000.0
+28.0,Male,Bachelor's,Software Engineer,4.0,160000.0
+26.0,Female,Bachelor's,Data Analyst,3.0,100000.0
+31.0,Male,Bachelor's,Product Manager,8.0,190000.0
+30.0,Male,Master's,Software Engineer,6.0,170000.0
+32.0,Female,Bachelor's,Data Scientist,9.0,185000.0
+29.0,Male,Bachelor's,Data Analyst,7.0,130000.0
+35.0,Female,Bachelor's,Product Manager,12.0,190000.0
+27.0,Male,Bachelor's,Software Engineer,5.0,150000.0
+28.0,Female,Master's,Data Scientist,6.0,150000.0
+37.0,Male,PhD,Product Manager,14.0,195000.0
+26.0,Male,Bachelor's,Data Analyst,3.0,110000.0
+30.0,Female,Bachelor's,Software Engineer,8.0,180000.0
+31.0,Male,Master's,Data Scientist,9.0,185000.0
+29.0,Female,Bachelor's,Data Analyst,7.0,130000.0
+32.0,Male,Bachelor's,Software Engineer,10.0,190000.0
+28.0,Female,Master's,Data Scientist,6.0,155000.0
+34.0,Male,Bachelor's,Software Engineer,12.0,195000.0
+25.0,Female,Bachelor's,Data Analyst,2.0,90000.0
+30.0,Male,Bachelor's,Product Manager,8.0,185000.0
+29.0,Female,Bachelor's,Data Analyst,6.0,120000.0
+31.0,Male,Bachelor's,Software Engineer,9.0,180000.0
+26.0,Female,Bachelor's,Data Analyst,3.0,100000.0
+33.0,Male,Master's,Data Scientist,10.0,195000.0
+28.0,Male,Bachelor's,Software Engineer,4.0,160000.0
+27.0,Female,Bachelor's,Data Analyst,5.0,125000.0
+30.0,Male,Master's,Software Engineer,6.0,170000.0
+32.0,Female,Bachelor's,Data Scientist,9.0,185000.0
+29.0,Male,Bachelor's,Data Analyst,7.0,130000.0
+35.0,Female,Bachelor's,Product Manager,12.0,190000.0
+27.0,Male,Bachelor's,Software Engineer,5.0,150000.0
+28.0,Female,Master's,Data Scientist,6.0,150000.0
+37.0,Male,PhD,Product Manager,14.0,195000.0
+26.0,Male,Bachelor's,Data Analyst,3.0,110000.0
+30.0,Female,Bachelor's,Software Engineer,8.0,180000.0
+31.0,Male,Master's,Data Scientist,9.0,185000.0
+29.0,Female,Bachelor's,Data Analyst,7.0,130000.0
+32.0,Male,Bachelor's,Software Engineer,10.0,190000.0
+28.0,Female,Master's,Data Scientist,6.0,155000.0
+34.0,Male,Bachelor's,Software Engineer,12.0,195000.0
+25.0,Female,Bachelor's,Data Analyst,2.0,90000.0
+30.0,Male,Bachelor's,Product Manager,8.0,185000.0
+29.0,Female,Bachelor's,Data Analyst,6.0,120000.0
+31.0,Male,Bachelor's,Software Engineer,9.0,180000.0
+26.0,Female,Bachelor's,Data Analyst,3.0,100000.0
+33.0,Male,Master's,Data Scientist,10.0,195000.0
+28.0,Male,Bachelor's,Software Engineer,4.0,160000.0
+27.0,Female,Bachelor's,Data Analyst,5.0,125000.0
+30.0,Male,Master's,Software Engineer,6.0,170000.0
+32.0,Female,Bachelor's,Data Scientist,9.0,185000.0
+29.0,Male,Bachelor's,Data Analyst,7.0,130000.0
+35.0,Female,Bachelor's,Product Manager,12.0,190000.0
+27.0,Male,Bachelor's,Software Engineer,5.0,150000.0
+28.0,Female,Master's,Data Scientist,6.0,150000.0
+37.0,Male,PhD,Product Manager,14.0,195000.0
+26.0,Male,Bachelor's,Data Analyst,3.0,110000.0
+30.0,Female,Bachelor's,Software Engineer,8.0,180000.0
+31.0,Male,Master's,Data Scientist,9.0,185000.0
+29.0,Female,Bachelor's,Data Analyst,7.0,130000.0
+32.0,Male,Bachelor's,Software Engineer,10.0,190000.0
+28.0,Female,Master's,Data Scientist,6.0,155000.0
+34.0,Male,Bachelor's,Software Engineer,12.0,195000.0
+25.0,Female,Bachelor's,Data Analyst,2.0,90000.0
+30.0,Male,Bachelor's,Product Manager,8.0,185000.0
+29.0,Female,Bachelor's,Data Analyst,6.0,120000.0
+31.0,Male,Bachelor's,Software Engineer,9.0,180000.0
+26.0,Female,Bachelor's,Data Analyst,3.0,100000.0
+33.0,Male,Master's,Data Scientist,10.0,195000.0
+28.0,Male,Bachelor's,Software Engineer,4.0,160000.0
+27.0,Female,Bachelor's,Data Analyst,5.0,125000.0
+30.0,Male,Master's,Software Engineer,6.0,170000.0
+32.0,Female,Bachelor's,Data Scientist,9.0,185000.0
+29.0,Male,Bachelor's,Data Analyst,7.0,130000.0
+35.0,Female,Bachelor's,Product Manager,12.0,190000.0
+27.0,Male,Bachelor's,Software Engineer,5.0,150000.0
+28.0,Female,Master's,Data Scientist,6.0,150000.0
+37.0,Male,PhD,Product Manager,14.0,195000.0
+26.0,Male,Bachelor's,Data Analyst,3.0,110000.0
+30.0,Female,Bachelor's,Software Engineer,8.0,180000.0
+31.0,Male,Master's,Data Scientist,9.0,185000.0
+29.0,Female,Bachelor's,Data Analyst,7.0,130000.0
+32.0,Male,Bachelor's,Software Engineer,10.0,190000.0
+28.0,Female,Master's,Data Scientist,6.0,155000.0
+34.0,Male,Bachelor's,Software Engineer,12.0,195000.0
+25.0,Female,Bachelor's,Data Analyst,2.0,90000.0
+30.0,Male,Bachelor's,Product Manager,8.0,185000.0
+29.0,Female,Bachelor's,Data Analyst,6.0,120000.0
+31.0,Male,Bachelor's,Software Engineer,9.0,180000.0
+26.0,Female,Bachelor's,Data Analyst,3.0,100000.0
+33.0,Male,Master's,Data Scientist,10.0,195000.0
+28.0,Male,Bachelor's,Software Engineer,4.0,160000.0
+27.0,Female,Bachelor's,Data Analyst,5.0,125000.0
+30.0,Male,Master's,Software Engineer,6.0,170000.0
+32.0,Female,Bachelor's,Data Scientist,9.0,185000.0
+29.0,Male,Bachelor's,Data Analyst,7.0,130000.0
+35.0,Female,Bachelor's,Product Manager,12.0,190000.0
+27.0,Male,Bachelor's,Software Engineer,5.0,150000.0
+28.0,Female,Master's,Data Scientist,6.0,150000.0
+37.0,Male,PhD,Product Manager,14.0,195000.0
+26.0,Male,Bachelor's,Data Analyst,3.0,110000.0
+30.0,Female,Bachelor's,Software Engineer,8.0,180000.0
+31.0,Male,Master's,Data Scientist,9.0,185000.0
+29.0,Female,Bachelor's,Data Analyst,7.0,130000.0
+32.0,Male,Bachelor's,Software Engineer,10.0,190000.0
+28.0,Female,Master's,Data Scientist,6.0,155000.0
+34.0,Male,Bachelor's,Software Engineer,12.0,195000.0
+25.0,Female,Bachelor's,Data Analyst,2.0,90000.0
+30.0,Male,Bachelor's,Product Manager,8.0,185000.0
+28.0,Male,Bachelor's Degree,Senior Software Engineer,7.0,175000.0
+44.0,Male,PhD,Software Engineer Manager,18.0,190000.0
+33.0,Female,Master's Degree,Back end Developer,5.0,110000.0
+50.0,Male,PhD,Senior Project Engineer,16.0,195000.0
+27.0,Female,Master's Degree,Full Stack Engineer,3.0,100000.0
+25.0,Male,Bachelor's Degree,Front end Developer,1.0,60000.0
+35.0,Male,Master's Degree,Senior Software Engineer,8.0,155000.0
+47.0,Female,PhD,Full Stack Engineer,12.0,175000.0
+46.0,Female,Master's Degree,Senior Project Engineer,13.0,180000.0
+32.0,Male,Bachelor's Degree,Back end Developer,4.0,95000.0
+61.0,Male,PhD,Software Engineer Manager,20.0,200000.0
+41.0,Male,Master's Degree,Senior Software Engineer,11.0,165000.0
+37.0,Male,Master's Degree,Senior Project Engineer,9.0,145000.0
+53.0,Male,PhD,Software Engineer Manager,19.0,195000.0
+30.0,Female,Bachelor's Degree,Front end Developer,2.0,75000.0
+26.0,Female,Master's Degree,Back end Developer,3.0,90000.0
+37.0,Female,Master's Degree,Senior Software Engineer,9.0,155000.0
+32.0,Male,Bachelor's Degree,Full Stack Engineer,5.0,115000.0
+44.0,Female,Master's Degree,Senior Software Engineer,12.0,170000.0
+50.0,Female,PhD,Software Engineer Manager,16.0,190000.0
+27.0,Male,Bachelor's Degree,Senior Project Engineer,4.0,115000.0
+42.0,Male,PhD,Full Stack Engineer,14.0,180000.0
+57.0,Male,PhD,Software Engineer Manager,18.0,195000.0
+35.0,Male,Master's Degree,Senior Software Engineer,7.0,140000.0
+62.0,Male,PhD,Software Engineer Manager,19.0,200000.0
+26.0,Female,Master's Degree,Back end Developer,2.0,70000.0
+42.0,Female,Master's Degree,Senior Project Engineer,11.0,170000.0
+41.0,Female,PhD,Software Engineer Manager,14.0,185000.0
+36.0,Female,Master's Degree,Full Stack Engineer,8.0,140000.0
+49.0,Male,PhD,Software Engineer Manager,15.0,185000.0
+49.0,Male,PhD,Senior Project Engineer,15.0,185000.0
+47.0,Male,PhD,Software Engineer Manager,15.0,180000.0
+47.0,Male,PhD,Senior Software Engineer,14.0,175000.0
+26.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+24.0,Female,Bachelor's Degree,Back end Developer,1.0,60000.0
+62.0,Male,PhD,Software Engineer Manager,20.0,200000.0
+42.0,Male,PhD,Senior Software Engineer,14.0,170000.0
+41.0,Female,Master's Degree,Senior Project Engineer,11.0,165000.0
+23.0,Male,Bachelor's Degree,Full Stack Engineer,1.0,55000.0
+55.0,Male,PhD,Software Engineer Manager,17.0,190000.0
+26.0,Female,Master's Degree,Back end Developer,3.0,90000.0
+33.0,Female,Bachelor's Degree,Front end Developer,5.0,105000.0
+31.0,Male,Master's Degree,Full Stack Engineer,6.0,130000.0
+50.0,Female,PhD,Software Engineer Manager,16.0,185000.0
+24.0,Female,Master's Degree,Back end Developer,1.0,60000.0
+56.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+24.0,Male,Bachelor's Degree,Front end Developer,1.0,60000.0
+37.0,Male,Master's Degree,Senior Software Engineer,8.0,150000.0
+43.0,Female,PhD,Senior Project Engineer,13.0,180000.0
+44.0,Female,Master's Degree,Senior Software Engineer,12.0,170000.0
+34.0,Male,Master's Degree,Back end Developer,6.0,125000.0
+45.0,Male,PhD,Software Engineer Manager,15.0,185000.0
+29.0,Male,Bachelor's Degree,Full Stack Engineer,3.0,90000.0
+29.0,Male,Bachelor's Degree,Front end Developer,3.0,80000.0
+29.0,Female,Bachelor's Degree,Back end Developer,3.0,85000.0
+48.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+43.0,Female,Master's Degree,Software Engineer Manager,11.0,160000.0
+62.0,Male,PhD,Software Engineer Manager,19.0,200000.0
+54.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+60.0,Male,PhD,Software Engineer Manager,18.0,195000.0
+54.0,Female,PhD,Software Engineer Manager,14.0,190000.0
+27.0,Female,Master's Degree,Full Stack Engineer,3.0,95000.0
+23.0,Male,Bachelor's Degree,Back end Developer,1.0,55000.0
+45.0,Male,PhD,Senior Software Engineer,13.0,185000.0
+32.0,Female,Master's Degree,Full Stack Engineer,5.0,120000.0
+57.0,Male,PhD,Software Engineer Manager,16.0,195000.0
+47.0,Male,PhD,Software Engineer Manager,14.0,175000.0
+25.0,Female,Master's Degree,Back end Developer,2.0,75000.0
+58.0,Male,PhD,Software Engineer Manager,17.0,200000.0
+41.0,Female,Master's Degree,Senior Software Engineer,12.0,160000.0
+41.0,Male,PhD,Software Engineer Manager,12.0,175000.0
+26.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+47.0,Male,PhD,Senior Software Engineer,15.0,180000.0
+24.0,Female,Bachelor's Degree,Back end Developer,1.0,60000.0
+48.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+32.0,Male,Bachelor's Degree,Full Stack Engineer,5.0,120000.0
+61.0,Male,PhD,Software Engineer Manager,20.0,200000.0
+45.0,Male,PhD,Senior Project Engineer,14.0,185000.0
+50.0,Female,PhD,Software Engineer Manager,16.0,190000.0
+53.0,Male,PhD,Software Engineer Manager,18.0,195000.0
+47.0,Female,PhD,Senior Software Engineer,14.0,170000.0
+23.0,Male,Bachelor's Degree,Front end Developer,1.0,55000.0
+33.0,Male,Master's Degree,Back end Developer,6.0,130000.0
+42.0,Male,PhD,Software Engineer Manager,14.0,180000.0
+45.0,Male,PhD,Senior Project Engineer,14.0,185000.0
+23.0,Male,Bachelor's Degree,Front end Developer,1.0,55000.0
+37.0,Male,Master's Degree,Senior Software Engineer,9.0,145000.0
+44.0,Female,Master's Degree,Senior Project Engineer,12.0,170000.0
+54.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+38.0,Female,Master's Degree,Back end Developer,10.0,155000.0
+34.0,Male,Master's Degree,Full Stack Engineer,6.0,125000.0
+46.0,Female,PhD,Software Engineer Manager,14.0,180000.0
+30.0,Male,Bachelor's Degree,Back end Developer,4.0,95000.0
+44.0,Female,Master's Degree,Senior Software Engineer,11.0,170000.0
+27.0,Female,Master's Degree,Full Stack Engineer,3.0,100000.0
+42.0,Male,PhD,Senior Project Engineer,14.0,175000.0
+27.0,Male,Bachelor's Degree,Front end Developer,3.0,80000.0
+54.0,Male,PhD,Software Engineer Manager,18.0,195000.0
+38.0,Male,Master's Degree,Senior Software Engineer,10.0,155000.0
+31.0,Male,Master's Degree,Senior Project Engineer,6.0,125000.0
+28.0,Female,Master's Degree,Full Stack Engineer,4.0,110000.0
+30.0,Female,Master's Degree,Back end Developer,6.0,130000.0
+54.0,Male,PhD,Software Engineer Manager,16.0,190000.0
+62.0,Male,PhD,Software Engineer Manager,20.0,200000.0
+62.0,Male,PhD,Software Engineer Manager,19.0,200000.0
+37.0,Male,Master's Degree,Senior Software Engineer,9.0,150000.0
+31.0,Male,Master's Degree,Senior Software Engineer,7.0,140000.0
+58.0,Female,PhD,Software Engineer Manager,17.0,195000.0
+56.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+23.0,Female,Bachelor's Degree,Back end Developer,1.0,55000.0
+49.0,Male,PhD,Software Engineer Manager,15.0,185000.0
+32.0,Female,Master's Degree,Full Stack Engineer,5.0,120000.0
+52.0,Female,PhD,Software Engineer Manager,16.0,190000.0
+32.0,Female,Master's Degree,Full Stack Engineer,6.0,130000.0
+50.0,Female,PhD,Software Engineer Manager,16.0,190000.0
+32.0,Male,Master's Degree,Back end Developer,6.0,130000.0
+34.0,Male,Master's Degree,Full Stack Engineer,7.0,140000.0
+28.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+44.0,Male,Master's Degree,Senior Project Engineer,11.0,170000.0
+55.0,Male,PhD,Software Engineer Manager,17.0,190000.0
+27.0,Male,Bachelor's Degree,Front end Developer,3.0,80000.0
+46.0,Male,PhD,Software Engineer Manager,14.0,180000.0
+27.0,Female,Master's Degree,Back end Developer,2.0,70000.0
+45.0,Male,PhD,Senior Project Engineer,14.0,185000.0
+23.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0
+36.0,Female,Master's Degree,Full Stack Engineer,8.0,140000.0
+47.0,Female,PhD,Senior Software Engineer,14.0,170000.0
+33.0,Male,Master's Degree,Back end Developer,6.0,130000.0
+43.0,Male,PhD,Software Engineer Manager,13.0,180000.0
+30.0,Male,Bachelor's Degree,Back end Developer,4.0,95000.0
+28.0,Female,Bachelor's Degree,Front end Developer,2.0,70000.0
+43.0,Male,Master's Degree,Senior Project Engineer,12.0,165000.0
+43.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+36.0,Male,Master's Degree,Senior Software Engineer,7.0,140000.0
+24.0,Male,Bachelor's Degree,Front end Developer,1.0,60000.0
+28.0,Female,Bachelor's Degree,Front end Developer,3.0,80000.0
+37.0,Male,Master's Degree,Senior Software Engineer,9.0,150000.0
+41.0,Female,PhD,Software Engineer Manager,14.0,185000.0
+26.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+28.0,Female,Master's Degree,Back end Developer,3.0,90000.0
+43.0,Male,PhD,Senior Software Engineer,12.0,170000.0
+42.0,Male,PhD,Senior Software Engineer,14.0,170000.0
+48.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+27.0,Female,Master's Degree,Back end Developer,2.0,70000.0
+49.0,Male,PhD,Software Engineer Manager,15.0,185000.0
+44.0,Male,PhD,Senior Project Engineer,12.0,170000.0
+27.0,Female,Master's Degree,Full Stack Engineer,3.0,100000.0
+37.0,Male,Master's Degree,Senior Software Engineer,10.0,155000.0
+44.0,Female,Master's Degree,Senior Project Engineer,12.0,170000.0
+56.0,Male,PhD,Software Engineer Manager,18.0,195000.0
+49.0,Male,PhD,Software Engineer Manager,15.0,185000.0
+27.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+48.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+31.0,Male,Master's Degree,Full Stack Engineer,7.0,140000.0
+25.0,Male,Bachelor's Degree,Front end Developer,1.0,60000.0
+50.0,Male,PhD,Software Engineer Manager,16.0,190000.0
+46.0,Male,PhD,Software Engineer Manager,14.0,180000.0
+33.0,Male,Master's Degree,Full Stack Engineer,6.0,130000.0
+42.0,Male,PhD,Senior Software Engineer,14.0,170000.0
+41.0,Male,PhD,Senior Project Engineer,12.0,165000.0
+43.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+32.0,Male,Master's Degree,Back end Developer,6.0,130000.0
+24.0,Male,Bachelor's Degree,Front end Developer,1.0,60000.0
+44.0,Female,Master's Degree,Senior Software Engineer,11.0,170000.0
+36.0,Male,Master's Degree,Senior Software Engineer,7.0,140000.0
+28.0,Female,Master's Degree,Full Stack Engineer,4.0,110000.0
+28.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+37.0,Male,Master's Degree,Senior Software Engineer,9.0,145000.0
+54.0,Male,PhD,Software Engineer Manager,16.0,190000.0
+58.0,Male,PhD,Software Engineer Manager,17.0,200000.0
+27.0,Male,Bachelor's Degree,Front end Developer,3.0,80000.0
+30.0,Male,Bachelor's Degree,Back end Developer,4.0,95000.0
+27.0,Female,Master's Degree,Full Stack Engineer,3.0,100000.0
+54.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+49.0,Male,PhD,Software Engineer Manager,15.0,185000.0
+38.0,Male,Master's Degree,Senior Software Engineer,10.0,155000.0
+54.0,Male,PhD,Software Engineer Manager,18.0,195000.0
+31.0,Male,Master's Degree,Senior Project Engineer,6.0,125000.0
+56.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+31.0,Male,Master's Degree,Senior Software Engineer,7.0,140000.0
+42.0,Male,PhD,Senior Software Engineer,14.0,170000.0
+44.0,Male,Master's Degree,Senior Project Engineer,11.0,170000.0
+37.0,Male,Master's Degree,Senior Software Engineer,9.0,150000.0
+24.0,Female,Bachelor's Degree,Back end Developer,1.0,60000.0
+27.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+42.0,Male,PhD,Senior Software Engineer,14.0,170000.0
+24.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0
+28.0,Female,Bachelor's Degree,Front end Developer,3.0,80000.0
+43.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+31.0,Male,Master's Degree,Full Stack Engineer,7.0,140000.0
+43.0,Male,PhD,Software Engineer Manager,13.0,180000.0
+27.0,Female,Master's Degree,Back end Developer,2.0,70000.0
+49.0,Male,PhD,Software Engineer Manager,15.0,185000.0
+48.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+30.0,Female,Master's Degree,Back end Developer,6.0,130000.0
+28.0,Female,Master's Degree,Full Stack Engineer,4.0,110000.0
+46.0,Male,PhD,Software Engineer Manager,14.0,180000.0
+37.0,Male,Master's Degree,Senior Software Engineer,9.0,145000.0
+42.0,Male,PhD,Senior Software Engineer,14.0,170000.0
+43.0,Male,PhD,Senior Project Engineer,12.0,165000.0
+31.0,Male,Master's Degree,Senior Software Engineer,7.0,140000.0
+56.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+37.0,Male,Master's Degree,Senior Software Engineer,10.0,155000.0
+54.0,Male,PhD,Software Engineer Manager,16.0,190000.0
+58.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+33.0,Male,Master's Degree,Back end Developer,6.0,130000.0
+29.0,Female,Bachelor's Degree,Front end Developer,3.0,85000.0
+52.0,Male,PhD,Software Engineer Manager,18.0,200000.0
+36.0,Male,Master's Degree,Full Stack Engineer,8.0,140000.0
+26.0,Male,Bachelor's Degree,Back end Developer,2.0,65000.0
+47.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+32.0,Male,Master's Degree,Full Stack Engineer,6.0,120000.0
+29.0,Male,Bachelor's Degree,Front end Developer,3.0,80000.0
+28.0,Female,Master's Degree,Back end Developer,3.0,90000.0
+54.0,Male,PhD,Software Engineer Manager,16.0,190000.0
+57.0,Male,PhD,Software Engineer Manager,18.0,200000.0
+51.0,Male,PhD,Software Engineer Manager,16.0,190000.0
+28.0,Female,Master's Degree,Full Stack Engineer,4.0,110000.0
+46.0,Male,PhD,Software Engineer Manager,14.0,180000.0
+27.0,Female,Master's Degree,Back end Developer,2.0,65000.0
+45.0,Male,PhD,Senior Project Engineer,14.0,185000.0
+23.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0
+36.0,Male,Master's Degree,Full Stack Engineer,7.0,130000.0
+48.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+33.0,Female,Master's Degree,Full Stack Engineer,5.0,120000.0
+38.0,Female,Master's Degree,Back end Developer,10.0,155000.0
+51.0,Male,PhD,Software Engineer Manager,16.0,190000.0
+27.0,Female,Master's Degree,Full Stack Engineer,3.0,100000.0
+37.0,Male,Master's Degree,Senior Software Engineer,9.0,150000.0
+44.0,Female,Master's Degree,Senior Project Engineer,12.0,170000.0
+27.0,Male,Bachelor's Degree,Front end Developer,3.0,80000.0
+38.0,Male,Master's Degree,Senior Software Engineer,10.0,155000.0
+54.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+49.0,Male,PhD,Software Engineer Manager,15.0,185000.0
+27.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+48.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+31.0,Male,Master's Degree,Full Stack Engineer,7.0,140000.0
+25.0,Male,Bachelor's Degree,Front end Developer,1.0,55000.0
+50.0,Male,PhD,Software Engineer Manager,16.0,190000.0
+46.0,Male,PhD,Software Engineer Manager,14.0,180000.0
+33.0,Male,Master's Degree,Full Stack Engineer,6.0,130000.0
+42.0,Male,PhD,Senior Software Engineer,14.0,170000.0
+41.0,Male,PhD,Senior Project Engineer,12.0,165000.0
+43.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+32.0,Male,Master's Degree,Back end Developer,6.0,130000.0
+24.0,Male,Bachelor's Degree,Front end Developer,1.0,60000.0
+44.0,Female,Master's Degree,Senior Software Engineer,11.0,170000.0
+36.0,Male,Master's Degree,Senior Software Engineer,7.0,140000.0
+28.0,Female,Master's Degree,Full Stack Engineer,4.0,110000.0
+28.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+37.0,Male,Master's Degree,Senior Software Engineer,9.0,145000.0
+54.0,Male,PhD,Software Engineer Manager,16.0,190000.0
+58.0,Male,PhD,Software Engineer Manager,17.0,200000.0
+27.0,Male,Bachelor's Degree,Front end Developer,3.0,80000.0
+30.0,Male,Bachelor's Degree,Back end Developer,4.0,95000.0
+27.0,Female,Master's Degree,Full Stack Engineer,3.0,100000.0
+54.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+49.0,Male,PhD,Software Engineer Manager,15.0,185000.0
+38.0,Male,Master's Degree,Senior Software Engineer,10.0,155000.0
+54.0,Male,PhD,Software Engineer Manager,18.0,195000.0
+31.0,Male,Master's Degree,Senior Project Engineer,6.0,125000.0
+56.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+31.0,Male,Master's Degree,Senior Software Engineer,7.0,140000.0
+42.0,Male,PhD,Senior Software Engineer,14.0,170000.0
+44.0,Male,Master's Degree,Senior Project Engineer,11.0,170000.0
+37.0,Male,Master's Degree,Senior Software Engineer,9.0,150000.0
+24.0,Female,Bachelor's Degree,Back end Developer,1.0,60000.0
+27.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+42.0,Male,PhD,Senior Software Engineer,14.0,170000.0
+24.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0
+28.0,Female,Bachelor's Degree,Front end Developer,3.0,80000.0
+43.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+31.0,Male,Master's Degree,Full Stack Engineer,7.0,140000.0
+43.0,Male,PhD,Software Engineer Manager,13.0,180000.0
+27.0,Female,Master's Degree,Back end Developer,2.0,70000.0
+49.0,Male,PhD,Software Engineer Manager,15.0,185000.0
+48.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+31.0,Male,Master's Degree,Senior Project Engineer,6.0,125000.0
+40.0,Male,PhD,Senior Software Engineer,12.0,160000.0
+36.0,Male,Master's Degree,Senior Software Engineer,8.0,140000.0
+54.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+27.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+28.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+44.0,Male,Master's Degree,Senior Project Engineer,11.0,170000.0
+43.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+54.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+32.0,Male,Master's Degree,Back end Developer,6.0,130000.0
+38.0,Male,Master's Degree,Senior Software Engineer,10.0,155000.0
+49.0,Male,PhD,Software Engineer Manager,15.0,185000.0
+27.0,Male,Bachelor's Degree,Front end Developer,3.0,80000.0
+54.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+31.0,Male,Master's Degree,Senior Project Engineer,7.0,135000.0
+24.0,Male,Bachelor's Degree,Back end Developer,1.0,55000.0
+48.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+27.0,Female,Master's Degree,Back end Developer,2.0,70000.0
+43.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+44.0,Male,Master's Degree,Senior Project Engineer,11.0,170000.0
+37.0,Male,Master's Degree,Senior Software Engineer,9.0,150000.0
+56.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+28.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+54.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+31.0,Male,Master's Degree,Senior Project Engineer,6.0,125000.0
+49.0,Male,PhD,Software Engineer Manager,15.0,185000.0
+27.0,Female,Master's Degree,Back end Developer,2.0,70000.0
+38.0,Male,Master's Degree,Senior Software Engineer,10.0,155000.0
+27.0,Male,Bachelor's Degree,Front end Developer,3.0,80000.0
+43.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+48.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+44.0,Male,Master's Degree,Senior Project Engineer,11.0,170000.0
+54.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+37.0,Male,Master's Degree,Senior Software Engineer,9.0,150000.0
+28.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+27.0,Female,Master's Degree,Back end Developer,2.0,70000.0
+49.0,Male,PhD,Software Engineer Manager,15.0,185000.0
+31.0,Male,Master's Degree,Senior Project Engineer,7.0,135000.0
+27.0,Male,Bachelor's Degree,Front end Developer,3.0,80000.0
+54.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+38.0,Male,Master's Degree,Senior Software Engineer,10.0,155000.0
+44.0,Male,Master's Degree,Senior Project Engineer,11.0,170000.0
+43.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+27.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+48.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+31.0,Male,Master's Degree,Senior Project Engineer,6.0,125000.0
+54.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+37.0,Male,Master's Degree,Senior Software Engineer,9.0,150000.0
+28.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+27.0,Female,Master's Degree,Back end Developer,2.0,70000.0
+34.0,Male,Bachelor's Degree,Front end Developer,5.0,95000.0
+43.0,Female,Master's Degree,Senior Software Engineer,12.0,170000.0
+27.0,Male,Bachelor's Degree,Back end Developer,2.0,75000.0
+56.0,Female,PhD,Software Engineer Manager,18.0,210000.0
+32.0,Male,Master's Degree,Full Stack Engineer,7.0,135000.0
+40.0,Male,PhD,Senior Software Engineer,12.0,160000.0
+23.0,Male,Bachelor's Degree,Front end Developer,1.0,55000.0
+46.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+41.0,Female,PhD,Senior Project Engineer,11.0,165000.0
+28.0,Female,Bachelor's Degree,Front end Developer,3.0,80000.0
+34.0,Male,Bachelor's Degree,Back end Developer,6.0,120000.0
+49.0,Male,PhD,Software Engineer Manager,15.0,185000.0
+43.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+54.0,Male,PhD,Software Engineer Manager,16.0,190000.0
+36.0,Male,Master's Degree,Senior Software Engineer,8.0,140000.0
+33.0,Male,Master's Degree,Full Stack Engineer,6.0,130000.0
+27.0,Female,Master's Degree,Back end Developer,2.0,70000.0
+44.0,Male,Master's Degree,Senior Project Engineer,11.0,170000.0
+31.0,Male,Master's Degree,Senior Project Engineer,6.0,125000.0
+38.0,Male,Master's Degree,Senior Software Engineer,10.0,155000.0
+27.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+54.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+31.0,Male,Master's Degree,Senior Software Engineer,7.0,140000.0
+32.0,Male,Master's Degree,Back end Developer,6.0,130000.0
+38.0,Female,Master's Degree,Back end Developer,10.0,155000.0
+51.0,Male,PhD,Software Engineer Manager,16.0,190000.0
+28.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+27.0,Male,Bachelor's Degree,Front end Developer,3.0,80000.0
+43.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+27.0,Female,Master's Degree,Full Stack Engineer,3.0,100000.0
+49.0,Male,PhD,Software Engineer Manager,15.0,185000.0
+48.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+31.0,Male,Master's Degree,Senior Project Engineer,7.0,135000.0
+40.0,Female,PhD,Senior Software Engineer,12.0,160000.0
+24.0,Male,Bachelor's Degree,Front end Developer,1.0,55000.0
+27.0,Male,Bachelor's Degree,Front end Developer,3.0,80000.0
+42.0,Male,PhD,Senior Software Engineer,14.0,170000.0
+24.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0
+28.0,Female,Bachelor's Degree,Front end Developer,3.0,80000.0
+43.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+31.0,Male,Master's Degree,Full Stack Engineer,7.0,140000.0
+43.0,Male,PhD,Software Engineer Manager,13.0,180000.0
+27.0,Female,Master's Degree,Back end Developer,2.0,70000.0
+49.0,Male,PhD,Software Engineer Manager,15.0,185000.0
+48.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+31.0,Male,Master's Degree,Senior Project Engineer,6.0,125000.0
+40.0,Male,PhD,Senior Software Engineer,12.0,160000.0
+36.0,Male,Master's Degree,Senior Software Engineer,8.0,140000.0
+54.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+27.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+28.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+44.0,Male,Master's Degree,Senior Project Engineer,11.0,170000.0
+43.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+54.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+32.0,Male,Master's Degree,Back end Developer,6.0,130000.0
+38.0,Male,Master's Degree,Senior Software Engineer,10.0,155000.0
+49.0,Male,PhD,Software Engineer Manager,15.0,185000.0
+27.0,Male,Bachelor's Degree,Front end Developer,3.0,80000.0
+54.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+31.0,Male,Master's Degree,Senior Project Engineer,7.0,135000.0
+24.0,Male,Bachelor's Degree,Back end Developer,1.0,55000.0
+48.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+27.0,Female,Master's Degree,Back end Developer,2.0,70000.0
+43.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+44.0,Male,Master's Degree,Senior Project Engineer,11.0,170000.0
+37.0,Male,Master's Degree,Senior Software Engineer,9.0,150000.0
+56.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+28.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+54.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+31.0,Male,Master's Degree,Senior Project Engineer,6.0,125000.0
+49.0,Male,PhD,Software Engineer Manager,15.0,185000.0
+54.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+27.0,Male,Bachelor's Degree,Front end Developer,3.0,80000.0
+42.0,Male,PhD,Senior Software Engineer,14.0,170000.0
+38.0,Male,Master's Degree,Senior Software Engineer,10.0,155000.0
+43.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+27.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+31.0,Male,Master's Degree,Full Stack Engineer,7.0,140000.0
+54.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+36.0,Male,Master's Degree,Senior Software Engineer,8.0,140000.0
+27.0,Female,Master's Degree,Back end Developer,2.0,70000.0
+49.0,Male,PhD,Software Engineer Manager,15.0,185000.0
+48.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+31.0,Male,Master's Degree,Senior Project Engineer,7.0,135000.0
+40.0,Female,PhD,Senior Software Engineer,12.0,160000.0
+24.0,Male,Bachelor's Degree,Front end Developer,1.0,55000.0
+27.0,Male,Bachelor's Degree,Front end Developer,3.0,80000.0
+43.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+27.0,Female,Master's Degree,Full Stack Engineer,3.0,100000.0
+49.0,Male,PhD,Software Engineer Manager,15.0,185000.0
+48.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+31.0,Male,Master's Degree,Senior Project Engineer,6.0,125000.0
+40.0,Male,PhD,Senior Software Engineer,12.0,160000.0
+36.0,Male,Master's Degree,Senior Software Engineer,8.0,140000.0
+54.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+27.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+28.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+44.0,Male,Master's Degree,Senior Project Engineer,11.0,170000.0
+43.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+54.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+32.0,Male,Master's Degree,Back end Developer,6.0,130000.0
+38.0,Male,Master's Degree,Senior Software Engineer,10.0,155000.0
+49.0,Male,PhD,Software Engineer Manager,15.0,185000.0
+27.0,Male,Bachelor's Degree,Front end Developer,3.0,80000.0
+54.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+31.0,Male,Master's Degree,Senior Project Engineer,7.0,135000.0
+24.0,Male,Bachelor's Degree,Back end Developer,1.0,55000.0
+48.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+27.0,Female,Master's Degree,Back end Developer,2.0,70000.0
+43.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+44.0,Male,Master's Degree,Senior Project Engineer,11.0,170000.0
+37.0,Male,Master's Degree,Senior Software Engineer,9.0,150000.0
+56.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+28.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0
+54.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+31.0,Male,Master's Degree,Senior Project Engineer,6.0,125000.0
+49.0,Male,PhD,Software Engineer Manager,15.0,185000.0
+54.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+27.0,Male,Bachelor's Degree,Front end Developer,3.0,80000.0
+42.0,Male,PhD,Senior Software Engineer,14.0,170000.0
+38.0,Male,Master's Degree,Senior Software Engineer,10.0,155000.0
+36.0,Male,Bachelor's Degree,Front end Developer,7.0,120000.0
+29.0,Female,Master's Degree,Back end Developer,3.0,90000.0
+41.0,Female,PhD,Software Engineer Manager,14.0,180000.0
+33.0,Male,Bachelor's Degree,Full Stack Engineer,7.0,130000.0
+42.0,Male,PhD,Senior Software Engineer,12.0,170000.0
+28.0,Male,Bachelor's Degree,Back end Developer,2.0,70000.0
+55.0,Male,PhD,Software Engineer Manager,18.0,210000.0
+26.0,Female,Master's Degree,Front end Developer,1.0,55000.0
+47.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+44.0,Female,PhD,Software Engineer Manager,11.0,165000.0
+30.0,Male,Master's Degree,Full Stack Engineer,5.0,105000.0
+39.0,Female,Master's Degree,Senior Software Engineer,11.0,160000.0
+32.0,Male,Bachelor's Degree,Front end Developer,6.0,110000.0
+50.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+27.0,Male,Bachelor's Degree,Back end Developer,3.0,85000.0
+46.0,Male,PhD,Senior Project Engineer,14.0,180000.0
+25.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0
+43.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+35.0,Male,Bachelor's Degree,Back end Developer,8.0,140000.0
+29.0,Female,Master's Degree,Back end Developer,3.0,90000.0
+40.0,Female,PhD,Senior Software Engineer,12.0,160000.0
+35.0,Male,Bachelor's Degree,Full Stack Engineer,8.0,145000.0
+41.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+30.0,Male,Master's Degree,Full Stack Engineer,5.0,105000.0
+33.0,Male,Bachelor's Degree,Front end Developer,6.0,110000.0
+55.0,Male,PhD,Software Engineer Manager,18.0,210000.0
+26.0,Female,Master's Degree,Front end Developer,1.0,55000.0
+47.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+44.0,Female,PhD,Software Engineer Manager,11.0,165000.0
+30.0,Male,Master's Degree,Full Stack Engineer,5.0,105000.0
+39.0,Female,Master's Degree,Senior Software Engineer,11.0,160000.0
+32.0,Male,Bachelor's Degree,Front end Developer,6.0,110000.0
+50.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+27.0,Male,Bachelor's Degree,Back end Developer,3.0,85000.0
+46.0,Male,PhD,Senior Project Engineer,14.0,180000.0
+25.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0
+43.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+35.0,Male,Bachelor's Degree,Back end Developer,8.0,140000.0
+29.0,Female,Master's Degree,Back end Developer,3.0,90000.0
+40.0,Female,PhD,Senior Software Engineer,12.0,160000.0
+35.0,Male,Bachelor's Degree,Full Stack Engineer,8.0,145000.0
+41.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+30.0,Male,Master's Degree,Full Stack Engineer,5.0,105000.0
+33.0,Male,Bachelor's Degree,Front end Developer,6.0,110000.0
+55.0,Male,PhD,Software Engineer Manager,18.0,210000.0
+26.0,Female,Master's Degree,Front end Developer,1.0,55000.0
+47.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+44.0,Female,PhD,Software Engineer Manager,11.0,165000.0
+30.0,Male,Master's Degree,Full Stack Engineer,5.0,105000.0
+39.0,Female,Master's Degree,Senior Software Engineer,11.0,160000.0
+32.0,Male,Bachelor's Degree,Front end Developer,6.0,110000.0
+50.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+27.0,Male,Bachelor's Degree,Back end Developer,3.0,85000.0
+46.0,Male,PhD,Senior Project Engineer,14.0,180000.0
+25.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0
+43.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+35.0,Male,Bachelor's Degree,Back end Developer,8.0,140000.0
+29.0,Female,Master's Degree,Back end Developer,3.0,90000.0
+40.0,Female,PhD,Senior Software Engineer,12.0,160000.0
+35.0,Male,Bachelor's Degree,Full Stack Engineer,8.0,145000.0
+41.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+30.0,Male,Master's Degree,Full Stack Engineer,5.0,105000.0
+33.0,Male,Bachelor's Degree,Front end Developer,6.0,110000.0
+55.0,Male,PhD,Software Engineer Manager,18.0,210000.0
+26.0,Female,Master's Degree,Front end Developer,1.0,55000.0
+47.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+44.0,Female,PhD,Software Engineer Manager,11.0,165000.0
+30.0,Male,Master's Degree,Full Stack Engineer,5.0,105000.0
+39.0,Female,Master's Degree,Senior Software Engineer,11.0,160000.0
+32.0,Male,Bachelor's Degree,Front end Developer,6.0,110000.0
+50.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+27.0,Male,Bachelor's Degree,Back end Developer,3.0,85000.0
+46.0,Male,PhD,Senior Project Engineer,14.0,180000.0
+25.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0
+43.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+35.0,Male,Bachelor's Degree,Back end Developer,8.0,140000.0
+29.0,Female,Master's Degree,Back end Developer,3.0,90000.0
+40.0,Female,PhD,Senior Software Engineer,12.0,160000.0
+35.0,Male,Bachelor's Degree,Full Stack Engineer,8.0,145000.0
+41.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+30.0,Male,Master's Degree,Full Stack Engineer,5.0,105000.0
+33.0,Male,Bachelor's Degree,Front end Developer,6.0,110000.0
+55.0,Male,PhD,Software Engineer Manager,18.0,210000.0
+26.0,Female,Master's Degree,Front end Developer,1.0,55000.0
+47.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+44.0,Female,PhD,Software Engineer Manager,11.0,165000.0
+30.0,Male,Master's Degree,Full Stack Engineer,5.0,105000.0
+39.0,Female,Master's Degree,Senior Software Engineer,11.0,160000.0
+32.0,Male,Bachelor's Degree,Front end Developer,6.0,110000.0
+50.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+27.0,Male,Bachelor's Degree,Back end Developer,3.0,85000.0
+46.0,Male,PhD,Senior Project Engineer,14.0,180000.0
+25.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0
+43.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+35.0,Male,Bachelor's Degree,Back end Developer,8.0,140000.0
+29.0,Female,Master's Degree,Back end Developer,3.0,90000.0
+40.0,Female,PhD,Senior Software Engineer,12.0,160000.0
+35.0,Male,Bachelor's Degree,Full Stack Engineer,8.0,145000.0
+41.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+30.0,Male,Master's Degree,Full Stack Engineer,5.0,105000.0
+33.0,Male,Bachelor's Degree,Front end Developer,6.0,110000.0
+55.0,Male,PhD,Software Engineer Manager,18.0,210000.0
+26.0,Female,Master's Degree,Front end Developer,1.0,55000.0
+47.0,Male,PhD,Senior Project Engineer,16.0,190000.0
+44.0,Female,PhD,Software Engineer Manager,11.0,165000.0
+30.0,Male,Master's Degree,Full Stack Engineer,5.0,105000.0
+39.0,Female,Master's Degree,Senior Software Engineer,11.0,160000.0
+32.0,Male,Bachelor's Degree,Front end Developer,6.0,110000.0
+50.0,Male,PhD,Software Engineer Manager,17.0,195000.0
+27.0,Male,Bachelor's Degree,Back end Developer,3.0,85000.0
+46.0,Male,PhD,Senior Project Engineer,14.0,180000.0
+25.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0
+43.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+35.0,Male,Bachelor's Degree,Back end Developer,8.0,140000.0
+29.0,Female,Master's Degree,Back end Developer,3.0,90000.0
+40.0,Female,PhD,Senior Software Engineer,12.0,160000.0
+35.0,Male,Bachelor's Degree,Full Stack Engineer,8.0,145000.0
+41.0,Male,PhD,Senior Project Engineer,13.0,185000.0
+30.0,Male,Master's Degree,Full Stack Engineer,5.0,105000.0
+33.0,Male,Bachelor's Degree,Front end Developer,6.0,110000.0
+55.0,Male,PhD,Software Engineer Manager,18.0,210000.0
+31.0,Male,Bachelor's Degree,Front end Developer,6.0,115000.0
+42.0,Female,Master's Degree,Software Engineer Manager,13.0,170000.0
+27.0,Female,Bachelor's Degree,Back end Developer,3.0,80000.0
+51.0,Male,PhD,Senior Project Engineer,19.0,200000.0
+34.0,Female,Master's Degree,Full Stack Engineer,7.0,130000.0
+38.0,Male,Bachelor's Degree,Software Engineer Manager,11.0,155000.0
+29.0,Male,Bachelor's Degree,Front end Developer,5.0,105000.0
+43.0,Female,PhD,Senior Project Engineer,14.0,190000.0
+36.0,Male,Master's Degree,Back end Developer,8.0,140000.0
+48.0,Male,PhD,Software Engineer Manager,16.0,185000.0
+35.0,Female,Bachelor's Degree,Full Stack Engineer,8.0,145000.0
+30.0,Female,Master's Degree,Front end Developer,4.0,90000.0
+50.0,Male,PhD,Senior Project Engineer,18.0,195000.0
+29.0,Male,Bachelor's Degree,Back end Developer,4.0,95000.0
+41.0,Male,Master's Degree,Software Engineer Manager,13.0,170000.0
+33.0,Female,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+45.0,Male,PhD,Senior Project Engineer,16.0,185000.0
+28.0,Female,Bachelor's Degree,Front end Developer,2.0,65000.0
+39.0,Female,Master's Degree,Software Engineer Manager,12.0,160000.0
+30.0,Male,Bachelor's Degree,Back end Developer,5.0,100000.0
+46.0,Male,PhD,Senior Project Engineer,15.0,180000.0
+25.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0
+42.0,Male,PhD,Software Engineer Manager,14.0,190000.0
+31.0,Male,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+49.0,Female,PhD,Senior Project Engineer,17.0,195000.0
+36.0,Male,Master's Degree,Back end Developer,9.0,150000.0
+33.0,Female,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+45.0,Male,PhD,Software Engineer Manager,16.0,185000.0
+28.0,Female,Bachelor's Degree,Front end Developer,2.0,65000.0
+39.0,Female,Master's Degree,Software Engineer Manager,12.0,160000.0
+30.0,Male,Bachelor's Degree,Back end Developer,5.0,100000.0
+46.0,Male,PhD,Senior Project Engineer,15.0,180000.0
+25.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0
+42.0,Male,PhD,Software Engineer Manager,14.0,190000.0
+31.0,Male,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+49.0,Female,PhD,Senior Project Engineer,17.0,195000.0
+36.0,Male,Master's Degree,Back end Developer,9.0,150000.0
+33.0,Female,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+45.0,Male,PhD,Software Engineer Manager,16.0,185000.0
+28.0,Female,Bachelor's Degree,Front end Developer,2.0,65000.0
+39.0,Female,Master's Degree,Software Engineer Manager,12.0,160000.0
+30.0,Male,Bachelor's Degree,Back end Developer,5.0,100000.0
+46.0,Male,PhD,Senior Project Engineer,15.0,180000.0
+25.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0
+42.0,Male,PhD,Software Engineer Manager,14.0,190000.0
+31.0,Male,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+49.0,Female,PhD,Senior Project Engineer,17.0,195000.0
+36.0,Male,Master's Degree,Back end Developer,9.0,150000.0
+33.0,Female,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+45.0,Male,PhD,Software Engineer Manager,16.0,185000.0
+28.0,Female,Bachelor's Degree,Front end Developer,2.0,65000.0
+39.0,Female,Master's Degree,Software Engineer Manager,12.0,160000.0
+30.0,Male,Bachelor's Degree,Back end Developer,5.0,100000.0
+46.0,Male,PhD,Senior Project Engineer,15.0,180000.0
+25.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0
+42.0,Male,PhD,Software Engineer Manager,14.0,190000.0
+31.0,Male,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+49.0,Female,PhD,Senior Project Engineer,17.0,195000.0
+36.0,Male,Master's Degree,Back end Developer,9.0,150000.0
+33.0,Female,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+45.0,Male,PhD,Software Engineer Manager,16.0,185000.0
+28.0,Female,Bachelor's Degree,Front end Developer,2.0,65000.0
+39.0,Female,Master's Degree,Software Engineer Manager,12.0,160000.0
+30.0,Male,Bachelor's Degree,Back end Developer,5.0,100000.0
+46.0,Male,PhD,Senior Project Engineer,15.0,180000.0
+25.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0
+42.0,Male,PhD,Software Engineer Manager,14.0,190000.0
+31.0,Male,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+49.0,Female,PhD,Senior Project Engineer,17.0,195000.0
+36.0,Male,Master's Degree,Back end Developer,9.0,150000.0
+33.0,Female,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+45.0,Male,PhD,Software Engineer Manager,16.0,185000.0
+28.0,Female,Bachelor's Degree,Front end Developer,2.0,65000.0
+39.0,Female,Master's Degree,Software Engineer Manager,12.0,160000.0
+30.0,Male,Bachelor's Degree,Back end Developer,5.0,100000.0
+46.0,Male,PhD,Senior Project Engineer,15.0,180000.0
+25.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0
+42.0,Male,PhD,Software Engineer Manager,14.0,190000.0
+31.0,Male,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+49.0,Female,PhD,Senior Project Engineer,17.0,195000.0
+36.0,Male,Master's Degree,Back end Developer,9.0,150000.0
+33.0,Female,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+45.0,Male,PhD,Software Engineer Manager,16.0,185000.0
+28.0,Female,Bachelor's Degree,Front end Developer,2.0,65000.0
+39.0,Female,Master's Degree,Software Engineer Manager,12.0,160000.0
+30.0,Male,Bachelor's Degree,Back end Developer,5.0,100000.0
+46.0,Male,PhD,Senior Project Engineer,15.0,180000.0
+25.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0
+42.0,Male,PhD,Software Engineer Manager,14.0,190000.0
+31.0,Male,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+49.0,Female,PhD,Senior Project Engineer,17.0,195000.0
+36.0,Male,Master's Degree,Back end Developer,9.0,150000.0
+33.0,Female,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+45.0,Male,PhD,Software Engineer Manager,16.0,185000.0
+28.0,Female,Bachelor's Degree,Front end Developer,2.0,65000.0
+39.0,Female,Master's Degree,Software Engineer Manager,12.0,160000.0
+30.0,Male,Bachelor's Degree,Back end Developer,5.0,100000.0
+46.0,Male,PhD,Senior Project Engineer,15.0,180000.0
+25.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0
+42.0,Male,PhD,Software Engineer Manager,14.0,190000.0
+31.0,Male,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+49.0,Female,PhD,Senior Project Engineer,17.0,195000.0
+36.0,Male,Master's Degree,Back end Developer,9.0,150000.0
+33.0,Female,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+45.0,Male,PhD,Software Engineer Manager,16.0,185000.0
+28.0,Female,Bachelor's Degree,Front end Developer,2.0,65000.0
+39.0,Female,Master's Degree,Software Engineer Manager,12.0,160000.0
+30.0,Male,Bachelor's Degree,Back end Developer,5.0,100000.0
+46.0,Male,PhD,Senior Project Engineer,15.0,180000.0
+25.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0
+42.0,Male,PhD,Software Engineer Manager,14.0,190000.0
+31.0,Male,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+49.0,Female,PhD,Senior Project Engineer,17.0,195000.0
+36.0,Male,Master's Degree,Back end Developer,9.0,150000.0
+33.0,Female,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+45.0,Male,PhD,Software Engineer Manager,16.0,185000.0
+28.0,Female,Bachelor's Degree,Front end Developer,2.0,65000.0
+39.0,Female,Master's Degree,Software Engineer Manager,12.0,160000.0
+30.0,Male,Bachelor's Degree,Back end Developer,5.0,100000.0
+46.0,Male,PhD,Senior Project Engineer,15.0,180000.0
+25.0,Female,Bachelor's Degree,Front end Developer,1.0,550.0
+29.0,Male,Bachelor's Degree,Front end Developer,4.0,90000.0
+40.0,Female,Master's Degree,Software Engineer Manager,12.0,160000.0
+27.0,Female,Bachelor's Degree,Back end Developer,3.0,80000.0
+50.0,Male,PhD,Senior Project Engineer,18.0,195000.0
+33.0,Female,Master's Degree,Full Stack Engineer,6.0,115000.0
+37.0,Male,Bachelor's Degree,Software Engineer Manager,10.0,150000.0
+28.0,Male,Bachelor's Degree,Front end Developer,2.0,65000.0
+44.0,Female,PhD,Senior Project Engineer,14.0,190000.0
+35.0,Male,Master's Degree,Back end Developer,8.0,140000.0
+47.0,Male,PhD,Software Engineer Manager,16.0,185000.0
+34.0,Female,Bachelor's Degree,Full Stack Engineer,7.0,130000.0
+31.0,Female,Master's Degree,Front end Developer,5.0,105000.0
+51.0,Male,PhD,Senior Project Engineer,19.0,200000.0
+30.0,Male,Bachelor's Degree,Back end Developer,5.0,100000.0
+42.0,Male,Master's Degree,Software Engineer Manager,13.0,170000.0
+33.0,Female,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+45.0,Male,PhD,Senior Project Engineer,16.0,185000.0
+29.0,Female,Bachelor's Degree,Front end Developer,4.0,90000.0
+39.0,Female,Master's Degree,Software Engineer Manager,12.0,160000.0
+27.0,Male,Bachelor's Degree,Back end Developer,3.0,80000.0
+49.0,Male,PhD,Senior Project Engineer,17.0,195000.0
+32.0,Female,Master's Degree,Full Stack Engineer,6.0,115000.0
+36.0,Male,Bachelor's Degree,Software Engineer Manager,8.0,135000.0
+27.0,Male,Bachelor's Degree,Front end Developer,2.0,65000.0
+43.0,Female,PhD,Senior Project Engineer,14.0,190000.0
+34.0,Male,Master's Degree,Back end Developer,8.0,140000.0
+46.0,Male,PhD,Software Engineer Manager,16.0,185000.0
+33.0,Female,Bachelor's Degree,Full Stack Engineer,7.0,130000.0
+30.0,Female,Master's Degree,Front end Developer,5.0,105000.0
+50.0,Male,PhD,Senior Project Engineer,19.0,200000.0
+30.0,Male,Bachelor's Degree,Back end Developer,5.0,100000.0
+42.0,Male,Master's Degree,Software Engineer Manager,13.0,170000.0
+33.0,Female,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+45.0,Male,PhD,Senior Project Engineer,16.0,185000.0
+29.0,Female,Bachelor's Degree,Front end Developer,4.0,90000.0
+39.0,Female,Master's Degree,Software Engineer Manager,12.0,160000.0
+27.0,Male,Bachelor's Degree,Back end Developer,3.0,80000.0
+49.0,Male,PhD,Senior Project Engineer,17.0,195000.0
+32.0,Female,Master's Degree,Full Stack Engineer,6.0,115000.0
+36.0,Male,Bachelor's Degree,Software Engineer Manager,8.0,135000.0
+27.0,Male,Bachelor's Degree,Front end Developer,2.0,65000.0
+43.0,Female,PhD,Senior Project Engineer,14.0,190000.0
+34.0,Male,Master's Degree,Back end Developer,8.0,140000.0
+46.0,Male,PhD,Software Engineer Manager,16.0,185000.0
+33.0,Female,Bachelor's Degree,Full Stack Engineer,7.0,130000.0
+30.0,Female,Master's Degree,Front end Developer,5.0,105000.0
+50.0,Male,PhD,Senior Project Engineer,19.0,200000.0
+30.0,Male,Bachelor's Degree,Back end Developer,5.0,100000.0
+42.0,Male,Master's Degree,Software Engineer Manager,13.0,170000.0
+33.0,Female,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+45.0,Male,PhD,Senior Project Engineer,16.0,185000.0
+29.0,Female,Bachelor's Degree,Front end Developer,4.0,90000.0
+39.0,Female,Master's Degree,Software Engineer Manager,12.0,160000.0
+27.0,Male,Bachelor's Degree,Back end Developer,3.0,80000.0
+49.0,Male,PhD,Senior Project Engineer,17.0,195000.0
+32.0,Female,Master's Degree,Full Stack Engineer,6.0,115000.0
+36.0,Male,Bachelor's Degree,Software Engineer Manager,8.0,135000.0
+27.0,Male,Bachelor's Degree,Front end Developer,2.0,65000.0
+43.0,Female,PhD,Senior Project Engineer,14.0,190000.0
+34.0,Male,Master's Degree,Back end Developer,8.0,140000.0
+46.0,Male,PhD,Software Engineer Manager,16.0,185000.0
+33.0,Female,Bachelor's Degree,Full Stack Engineer,7.0,130000.0
+30.0,Female,Master's Degree,Front end Developer,5.0,105000.0
+50.0,Male,PhD,Senior Project Engineer,19.0,200000.0
+30.0,Male,Bachelor's Degree,Back end Developer,5.0,100000.0
+42.0,Male,Master's Degree,Software Engineer Manager,13.0,170000.0
+33.0,Female,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+45.0,Male,PhD,Senior Project Engineer,16.0,185000.0
+29.0,Female,Bachelor's Degree,Front end Developer,4.0,90000.0
+39.0,Female,Master's Degree,Software Engineer Manager,12.0,160000.0
+27.0,Male,Bachelor's Degree,Back end Developer,3.0,80000.0
+49.0,Male,PhD,Senior Project Engineer,17.0,195000.0
+32.0,Female,Master's Degree,Full Stack Engineer,6.0,115000.0
+36.0,Male,Bachelor's Degree,Software Engineer Manager,8.0,135000.0
+27.0,Male,Bachelor's Degree,Front end Developer,2.0,65000.0
+43.0,Female,PhD,Senior Project Engineer,14.0,190000.0
+34.0,Male,Master's Degree,Back end Developer,8.0,140000.0
+46.0,Male,PhD,Software Engineer Manager,16.0,185000.0
+33.0,Female,Bachelor's Degree,Full Stack Engineer,7.0,130000.0
+30.0,Female,Master's Degree,Front end Developer,5.0,105000.0
+50.0,Male,PhD,Senior Project Engineer,19.0,200000.0
+30.0,Male,Bachelor's Degree,Back end Developer,5.0,100000.0
+42.0,Male,Master's Degree,Software Engineer Manager,13.0,170000.0
+33.0,Female,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+45.0,Male,PhD,Senior Project Engineer,16.0,185000.0
+29.0,Female,Bachelor's Degree,Front end Developer,4.0,90000.0
+39.0,Female,Master's Degree,Software Engineer Manager,12.0,160000.0
+27.0,Male,Bachelor's Degree,Back end Developer,3.0,80000.0
+49.0,Male,PhD,Senior Project Engineer,17.0,195000.0
+32.0,Female,Master's Degree,Full Stack Engineer,6.0,115000.0
+36.0,Male,Bachelor's Degree,Software Engineer Manager,8.0,135000.0
+27.0,Male,Bachelor's Degree,Front end Developer,2.0,65000.0
+43.0,Female,PhD,Senior Project Engineer,14.0,190000.0
+34.0,Male,Master's Degree,Back end Developer,8.0,140000.0
+46.0,Male,PhD,Software Engineer Manager,16.0,185000.0
+33.0,Female,Bachelor's Degree,Full Stack Engineer,7.0,130000.0
+30.0,Female,Master's Degree,Front end Developer,5.0,105000.0
+50.0,Male,PhD,Senior Project Engineer,19.0,200000.0
+30.0,Male,Bachelor's Degree,Back end Developer,5.0,100000.0
+42.0,Male,Master's Degree,Software Engineer Manager,13.0,170000.0
+33.0,Female,Bachelor's Degree,Full Stack Engineer,6.0,115000.0
+45.0,Male,PhD,Senior Project Engineer,16.0,185000.0
+29.0,Female,Bachelor's Degree,Front end Developer,4.0,90000.0
+39.0,Female,Master's Degree,Software Engineer Manager,12.0,160000.0
+27.0,Male,Bachelor's Degree,Back end Developer,3.0,80000.0
+49.0,Male,PhD,Senior Project Engineer,17.0,195000.0
+32.0,Female,Master's Degree,Full Stack Engineer,6.0,115000.0
+36.0,Male,Bachelor's Degree,Software Engineer Manager,8.0,135000.0
+27.0,Male,Bachelor's Degree,Front end Developer,2.0,65000.0

@@ -1,0 +1,1001 @@
+Age,Gender,Education Level,Job Title,Years of Experience,Salary
+31.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0
+27.0,Female,Master's Degree,Human Resources Coordinator,3.0,50000.0
+42.0,Male,PhD,Data Scientist,14.0,140000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+26.0,Male,High School,Junior Sales Associate,2.0,30000.0
+39.0,Female,Master's Degree,Marketing Manager,11.0,120000.0
+30.0,Male,Bachelor's Degree,Software Engineer,4.0,65000.0
+47.0,Male,PhD,Data Scientist,19.0,190000.0
+25.0,Female,Bachelor's Degree,Junior Software Developer,1.0,35000.0
+40.0,Female,Master's Degree,Human Resources Manager,12.0,130000.0
+33.0,Male,Bachelor's Degree,Operations Manager,7.0,85000.0
+29.0,Female,High School,Junior Sales Associate,1.0,25000.0
+44.0,Male,PhD,Data Scientist,15.0,150000.0
+28.0,Male,Bachelor's Degree,Software Developer,3.0,60000.0
+31.0,Male,Bachelor's Degree,Software Engineer,5.0,80000.0
+27.0,Female,Master's Degree,Marketing Manager,3.0,60000.0
+38.0,Male,PhD,Data Scientist,12.0,130000.0
+29.0,Female,Bachelor's Degree,Human Resources Coordinator,2.0,45000.0
+23.0,Male,High School,Junior Sales Associate,1.0,25000.0
+32.0,Female,Master's Degree,Software Developer,7.0,90000.0
+44.0,Male,Bachelor's Degree,Operations Manager,18.0,170000.0
+26.0,Female,Bachelor's Degree,Marketing Coordinator,2.0,40000.0
+40.0,Male,PhD,Data Scientist,15.0,150000.0
+33.0,Female,Bachelor's Degree,Human Resources Manager,8.0,95000.0
+24.0,Male,High School,Junior Sales Associate,1.0,25000.0
+35.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+29.0,Male,Bachelor's Degree,Software Engineer,4.0,70000.0
+49.0,Male,PhD,Data Scientist,22.0,220000.0
+26.0,Female,Bachelor's Degree,Junior Software Developer,2.0,35000.0
+41.0,Female,Master's Degree,Human Resources Manager,13.0,140000.0
+36.0,Male,Bachelor's Degree,Operations Manager,9.0,110000.0
+28.0,Female,High School,Junior Sales Associate,1.0,25000.0
+43.0,Male,PhD,Data Scientist,16.0,160000.0
+29.0,Male,Bachelor's Degree,Software Developer,5.0,80000.0
+39.0,Female,Master's Degree,Marketing Coordinator,11.0,120000.0
+32.0,Male,Bachelor's Degree,Operations Manager,6.0,90000.0
+28.0,Female,Master's Degree,Human Resources Coordinator,2.0,45000.0
+40.0,Male,PhD,Data Scientist,15.0,150000.0
+33.0,Female,Bachelor's Degree,Human Resources Manager,8.0,95000.0
+24.0,Male,High School,Junior Sales Associate,1.0,25000.0
+35.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+29.0,Male,Bachelor's Degree,Software Engineer,4.0,70000.0
+49.0,Male,PhD,Data Scientist,22.0,220000.0
+26.0,Female,Bachelor's Degree,Junior Software Developer,2.0,35000.0
+41.0,Female,Master's Degree,Human Resources Manager,13.0,140000.0
+36.0,Male,Bachelor's Degree,Operations Manager,9.0,110000.0
+28.0,Female,High School,Junior Sales Associate,1.0,25000.0
+43.0,Male,PhD,Data Scientist,16.0,160000.0
+29.0,Male,Bachelor's Degree,Software Developer,5.0,80000.0
+39.0,Female,Master's Degree,Marketing Coordinator,11.0,120000.0
+32.0,Male,Bachelor's Degree,Operations Manager,6.0,90000.0
+28.0,Female,Master's Degree,Human Resources Coordinator,2.0,45000.0
+40.0,Male,PhD,Data Scientist,15.0,150000.0
+33.0,Female,Bachelor's Degree,Human Resources Manager,8.0,95000.0
+24.0,Male,High School,Junior Sales Associate,1.0,25000.0
+35.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+29.0,Male,Bachelor's Degree,Software Engineer,4.0,70000.0
+49.0,Male,PhD,Data Scientist,22.0,220000.0
+26.0,Female,Bachelor's Degree,Junior Software Developer,2.0,35000.0
+41.0,Female,Master's Degree,Human Resources Manager,13.0,140000.0
+36.0,Male,Bachelor's Degree,Operations Manager,9.0,110000.0
+28.0,Female,High School,Junior Sales Associate,1.0,25000.0
+43.0,Male,PhD,Data Scientist,16.0,160000.0
+29.0,Male,Bachelor's Degree,Software Developer,5.0,80000.0
+39.0,Female,Master's Degree,Marketing Coordinator,11.0,120000.0
+32.0,Male,Bachelor's Degree,Operations Manager,6.0,90000.0
+28.0,Female,Master's Degree,Human Resources Coordinator,2.0,45000.0
+40.0,Male,PhD,Data Scientist,15.0,150000.0
+33.0,Female,Bachelor's Degree,Human Resources Manager,8.0,95000.0
+24.0,Male,High School,Junior Sales Associate,1.0,25000.0
+35.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+29.0,Male,Bachelor's Degree,Software Engineer,4.0,70000.0
+49.0,Male,PhD,Data Scientist,22.0,220000.0
+26.0,Female,Bachelor's Degree,Junior Software Developer,2.0,35000.0
+41.0,Female,Master's Degree,Human Resources Manager,13.0,140000.0
+36.0,Male,Bachelor's Degree,Operations Manager,9.0,110000.0
+28.0,Female,High School,Junior Sales Associate,1.0,25000.0
+43.0,Male,PhD,Data Scientist,16.0,160000.0
+29.0,Male,Bachelor's Degree,Software Developer,5.0,80000.0
+39.0,Female,Master's Degree,Marketing Coordinator,11.0,120000.0
+32.0,Male,Bachelor's Degree,Operations Manager,6.0,90000.0
+28.0,Female,Master's Degree,Human Resources Coordinator,2.0,45000.0
+40.0,Male,PhD,Data Scientist,15.0,150000.0
+33.0,Female,Bachelor's Degree,Human Resources Manager,8.0,95000.0
+24.0,Male,High School,Junior Sales Associate,1.0,25000.0
+35.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+29.0,Male,Bachelor's Degree,Software Engineer,4.0,70000.0
+49.0,Male,PhD,Data Scientist,22.0,220000.0
+26.0,Female,Bachelor's Degree,Junior Software Developer,2.0,35000.0
+41.0,Female,Master's Degree,Human Resources Manager,13.0,140000.0
+36.0,Male,Bachelor's Degree,Operations Manager,9.0,110000.0
+28.0,Female,High School,Junior Sales Associate,1.0,25000.0
+43.0,Male,PhD,Data Scientist,16.0,160000.0
+29.0,Male,Bachelor's Degree,Software Developer,5.0,80000.0
+39.0,Female,Master's Degree,Marketing Coordinator,11.0,120000.0
+32.0,Male,Bachelor's Degree,Operations Manager,6.0,90000.0
+28.0,Female,Master's Degree,Human Resources Coordinator,2.0,45000.0
+40.0,Male,PhD,Data Scientist,15.0,150000.0
+33.0,Female,Bachelor's Degree,Human Resources Manager,8.0,95000.0
+24.0,Male,High School,Junior Sales Associate,1.0,25000.0
+35.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+29.0,Male,Bachelor's Degree,Software Engineer,4.0,70000.0
+49.0,Male,PhD,Data Scientist,22.0,220000.0
+26.0,Female,Bachelor's Degree,Junior Software Developer,2.0,35000.0
+41.0,Female,Master's Degree,Human Resources Manager,13.0,140000.0
+36.0,Male,Bachelor's Degree,Operations Manager,9.0,110000.0
+28.0,Female,High School,Junior Sales Associate,1.0,25000.0
+43.0,Male,PhD,Data Scientist,16.0,160000.0
+29.0,Male,Bachelor's Degree,Software Developer,5.0,80000.0
+39.0,Female,Master's Degree,Marketing Coordinator,11.0,120000.0
+32.0,Male,Bachelor's Degree,Operations Manager,6.0,90000.0
+28.0,Female,Master's Degree,Human Resources Coordinator,2.0,45000.0
+40.0,Male,PhD,Data Scientist,15.0,150000.0
+33.0,Female,Bachelor's Degree,Human Resources Manager,8.0,95000.0
+24.0,Male,High School,Junior Sales Associate,1.0,25000.0
+35.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+29.0,Male,Bachelor's Degree,Software Engineer,4.0,70000.0
+49.0,Male,PhD,Data Scientist,22.0,220000.0
+26.0,Female,Bachelor's Degree,Junior Software Developer,2.0,35000.0
+41.0,Female,Master's Degree,Human Resources Manager,13.0,140000.0
+36.0,Male,Bachelor's Degree,Operations Manager,9.0,110000.0
+28.0,Female,High School,Junior Sales Associate,1.0,25000.0
+43.0,Male,PhD,Data Scientist,16.0,160000.0
+29.0,Male,Bachelor's Degree,Software Developer,5.0,80000.0
+39.0,Female,Master's Degree,Marketing Coordinator,11.0,120000.0
+32.0,Male,Bachelor's Degree,Operations Manager,6.0,90000.0
+28.0,Female,Master's Degree,Human Resources Coordinator,2.0,45000.0
+40.0,Male,PhD,Data Scientist,15.0,150000.0
+33.0,Female,Bachelor's Degree,Human Resources Manager,8.0,95000.0
+24.0,Male,High School,Junior Sales Associate,1.0,25000.0
+35.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+29.0,Male,Bachelor's Degree,Software Engineer,4.0,70000.0
+49.0,Male,PhD,Data Scientist,22.0,220000.0
+26.0,Female,Bachelor's Degree,Junior Software Developer,2.0,35000.0
+41.0,Female,Master's Degree,Human Resources Manager,13.0,140000.0
+36.0,Male,Bachelor's Degree,Operations Manager,9.0,110000.0
+28.0,Female,High School,Junior Sales Associate,1.0,25000.0
+43.0,Male,PhD,Data Scientist,16.0,160000.0
+29.0,Male,Bachelor's Degree,Software Developer,5.0,80000.0
+34.0,Male,Bachelor's Degree,Software Engineer,6.0,85000.0
+31.0,Female,Master's Degree,Marketing Manager,4.0,62000.0
+41.0,Male,PhD,Data Scientist,13.0,138000.0
+27.0,Female,Bachelor's Degree,Human Resources Coordinator,2.0,47000.0
+25.0,Male,High School,Junior Sales Associate,1.0,26000.0
+33.0,Female,Master's Degree,Software Developer,8.0,95000.0
+45.0,Male,Bachelor's Degree,Operations Manager,19.0,174000.0
+28.0,Female,Bachelor's Degree,Marketing Coordinator,2.0,41000.0
+42.0,Male,PhD,Data Scientist,16.0,162000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,9.0,99000.0
+23.0,Male,High School,Junior Sales Associate,1.0,26000.0
+36.0,Female,Master's Degree,Marketing Manager,11.0,117000.0
+30.0,Male,Bachelor's Degree,Software Engineer,5.0,75000.0
+50.0,Male,PhD,Data Scientist,23.0,225000.0
+27.0,Female,Bachelor's Degree,Junior Software Developer,2.0,36000.0
+43.0,Female,Master's Degree,Human Resources Manager,14.0,146000.0
+37.0,Male,Bachelor's Degree,Operations Manager,10.0,113000.0
+29.0,Female,High School,Junior Sales Associate,1.0,26000.0
+44.0,Male,PhD,Data Scientist,17.0,168000.0
+30.0,Male,Bachelor's Degree,Software Developer,6.0,85000.0
+40.0,Female,Master's Degree,Marketing Coordinator,12.0,122000.0
+33.0,Male,Bachelor's Degree,Operations Manager,7.0,96000.0
+29.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+43.0,Male,PhD,Data Scientist,16.0,162000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,9.0,99000.0
+23.0,Male,High School,Junior Sales Associate,1.0,26000.0
+36.0,Female,Master's Degree,Marketing Manager,11.0,117000.0
+30.0,Male,Bachelor's Degree,Software Engineer,5.0,75000.0
+50.0,Male,PhD,Data Scientist,23.0,225000.0
+27.0,Female,Bachelor's Degree,Junior Software Developer,2.0,36000.0
+43.0,Female,Master's Degree,Human Resources Manager,14.0,146000.0
+37.0,Male,Bachelor's Degree,Operations Manager,10.0,113000.0
+29.0,Female,High School,Junior Sales Associate,1.0,26000.0
+44.0,Male,PhD,Data Scientist,17.0,168000.0
+30.0,Male,Bachelor's Degree,Software Developer,6.0,85000.0
+40.0,Female,Master's Degree,Marketing Coordinator,12.0,122000.0
+33.0,Male,Bachelor's Degree,Operations Manager,7.0,96000.0
+29.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+43.0,Male,PhD,Data Scientist,16.0,162000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,9.0,99000.0
+23.0,Male,High School,Junior Sales Associate,1.0,26000.0
+36.0,Female,Master's Degree,Marketing Manager,11.0,117000.0
+30.0,Male,Bachelor's Degree,Software Engineer,5.0,75000.0
+50.0,Male,PhD,Data Scientist,23.0,225000.0
+27.0,Female,Bachelor's Degree,Junior Software Developer,2.0,36000.0
+43.0,Female,Master's Degree,Human Resources Manager,14.0,146000.0
+37.0,Male,Bachelor's Degree,Operations Manager,10.0,113000.0
+29.0,Female,High School,Junior Sales Associate,1.0,26000.0
+44.0,Male,PhD,Data Scientist,17.0,168000.0
+30.0,Male,Bachelor's Degree,Software Developer,6.0,85000.0
+40.0,Female,Master's Degree,Marketing Coordinator,12.0,122000.0
+33.0,Male,Bachelor's Degree,Operations Manager,7.0,96000.0
+29.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+43.0,Male,PhD,Data Scientist,16.0,162000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,9.0,99000.0
+23.0,Male,High School,Junior Sales Associate,1.0,26000.0
+36.0,Female,Master's Degree,Marketing Manager,11.0,117000.0
+30.0,Male,Bachelor's Degree,Software Engineer,5.0,75000.0
+50.0,Male,PhD,Data Scientist,23.0,225000.0
+27.0,Female,Bachelor's Degree,Junior Software Developer,2.0,36000.0
+43.0,Female,Master's Degree,Human Resources Manager,14.0,146000.0
+37.0,Male,Bachelor's Degree,Operations Manager,10.0,113000.0
+29.0,Female,High School,Junior Sales Associate,1.0,26000.0
+44.0,Male,PhD,Data Scientist,17.0,168000.0
+30.0,Male,Bachelor's Degree,Software Developer,6.0,85000.0
+40.0,Female,Master's Degree,Marketing Coordinator,12.0,122000.0
+33.0,Male,Bachelor's Degree,Operations Manager,7.0,96000.0
+29.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+43.0,Male,PhD,Data Scientist,16.0,162000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,9.0,99000.0
+23.0,Male,High School,Junior Sales Associate,1.0,26000.0
+36.0,Female,Master's Degree,Marketing Manager,11.0,117000.0
+30.0,Male,Bachelor's Degree,Software Engineer,5.0,75000.0
+50.0,Male,PhD,Data Scientist,23.0,225000.0
+27.0,Female,Bachelor's Degree,Junior Software Developer,2.0,36000.0
+43.0,Female,Master's Degree,Human Resources Manager,14.0,146000.0
+37.0,Male,Bachelor's Degree,Operations Manager,10.0,113000.0
+29.0,Female,High School,Junior Sales Associate,1.0,26000.0
+44.0,Male,PhD,Data Scientist,17.0,168000.0
+30.0,Male,Bachelor's Degree,Software Developer,6.0,85000.0
+40.0,Female,Master's Degree,Marketing Coordinator,12.0,122000.0
+33.0,Male,Bachelor's Degree,Operations Manager,7.0,96000.0
+29.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+43.0,Male,PhD,Data Scientist,16.0,162000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,9.0,99000.0
+23.0,Male,High School,Junior Sales Associate,1.0,26000.0
+36.0,Female,Master's Degree,Marketing Manager,11.0,117000.0
+30.0,Male,Bachelor's Degree,Software Engineer,5.0,75000.0
+50.0,Male,PhD,Data Scientist,23.0,225000.0
+27.0,Female,Bachelor's Degree,Junior Software Developer,2.0,36000.0
+43.0,Female,Master's Degree,Human Resources Manager,14.0,146000.0
+37.0,Male,Bachelor's Degree,Operations Manager,10.0,113000.0
+29.0,Female,High School,Junior Sales Associate,1.0,26000.0
+44.0,Male,PhD,Data Scientist,17.0,168000.0
+30.0,Male,Bachelor's Degree,Software Developer,6.0,85000.0
+40.0,Female,Master's Degree,Marketing Coordinator,12.0,122000.0
+33.0,Male,Bachelor's Degree,Operations Manager,7.0,96000.0
+29.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+43.0,Male,PhD,Data Scientist,16.0,162000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,9.0,99000.0
+23.0,Male,High School,Junior Sales Associate,1.0,26000.0
+36.0,Female,Master's Degree,Marketing Manager,11.0,117000.0
+30.0,Male,Bachelor's Degree,Software Engineer,5.0,75000.0
+50.0,Male,PhD,Data Scientist,23.0,225000.0
+27.0,Female,Bachelor's Degree,Junior Software Developer,2.0,36000.0
+43.0,Female,Master's Degree,Human Resources Manager,14.0,146000.0
+37.0,Male,Bachelor's Degree,Operations Manager,10.0,113000.0
+29.0,Female,High School,Junior Sales Associate,1.0,26000.0
+44.0,Male,PhD,Data Scientist,17.0,168000.0
+30.0,Male,Bachelor's Degree,Software Developer,6.0,85000.0
+40.0,Female,Master's Degree,Marketing Coordinator,12.0,122000.0
+33.0,Male,Bachelor's Degree,Operations Manager,7.0,96000.0
+29.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+43.0,Male,PhD,Data Scientist,16.0,162000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,9.0,99000.0
+23.0,Male,High School,Junior Sales Associate,1.0,26000.0
+36.0,Female,Master's Degree,Marketing Manager,11.0,117000.0
+30.0,Male,Bachelor's Degree,Software Engineer,5.0,75000.0
+50.0,Male,PhD,Data Scientist,23.0,225000.0
+27.0,Female,Bachelor's Degree,Junior Software Developer,2.0,36000.0
+43.0,Female,Master's Degree,Human Resources Manager,14.0,146000.0
+37.0,Male,Bachelor's Degree,Operations Manager,10.0,113000.0
+29.0,Female,High School,Junior Sales Associate,1.0,26000.0
+44.0,Male,PhD,Data Scientist,17.0,168000.0
+30.0,Male,Bachelor's Degree,Software Developer,6.0,85000.0
+32.0,Female,Master's Degree,Software Developer,8.0,95000.0
+46.0,Male,PhD,Data Scientist,18.0,180000.0
+28.0,Female,Bachelor's Degree,Marketing Coordinator,2.0,41000.0
+24.0,Male,High School,Junior Sales Associate,1.0,26000.0
+31.0,Female,Master's Degree,Marketing Manager,5.0,68000.0
+39.0,Male,Bachelor's Degree,Operations Manager,13.0,127000.0
+25.0,Female,Bachelor's Degree,Human Resources Coordinator,2.0,47000.0
+41.0,Male,PhD,Data Scientist,15.0,155000.0
+35.0,Female,Bachelor's Degree,Human Resources Manager,8.0,92000.0
+26.0,Male,High School,Junior Sales Associate,1.0,26000.0
+37.0,Female,Master's Degree,Marketing Manager,12.0,125000.0
+29.0,Male,Bachelor's Degree,Software Engineer,4.0,71000.0
+51.0,Male,PhD,Data Scientist,24.0,240000.0
+28.0,Female,Bachelor's Degree,Junior Software Developer,2.0,36000.0
+44.0,Female,Master's Degree,Human Resources Manager,15.0,152000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,26000.0
+45.0,Male,PhD,Data Scientist,19.0,190000.0
+31.0,Male,Bachelor's Degree,Software Developer,6.0,85000.0
+41.0,Female,Master's Degree,Marketing Coordinator,13.0,131000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,101000.0
+30.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+44.0,Male,PhD,Data Scientist,18.0,182000.0
+35.0,Female,Bachelor's Degree,Human Resources Manager,8.0,92000.0
+26.0,Male,High School,Junior Sales Associate,1.0,26000.0
+37.0,Female,Master's Degree,Marketing Manager,12.0,125000.0
+29.0,Male,Bachelor's Degree,Software Engineer,4.0,71000.0
+51.0,Male,PhD,Data Scientist,24.0,240000.0
+28.0,Female,Bachelor's Degree,Junior Software Developer,2.0,36000.0
+44.0,Female,Master's Degree,Human Resources Manager,15.0,152000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,26000.0
+45.0,Male,PhD,Data Scientist,19.0,190000.0
+31.0,Male,Bachelor's Degree,Software Developer,6.0,85000.0
+41.0,Female,Master's Degree,Marketing Coordinator,13.0,131000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,101000.0
+30.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+44.0,Male,PhD,Data Scientist,18.0,182000.0
+35.0,Female,Bachelor's Degree,Human Resources Manager,8.0,92000.0
+26.0,Male,High School,Junior Sales Associate,1.0,26000.0
+37.0,Female,Master's Degree,Marketing Manager,12.0,125000.0
+29.0,Male,Bachelor's Degree,Software Engineer,4.0,71000.0
+51.0,Male,PhD,Data Scientist,24.0,240000.0
+28.0,Female,Bachelor's Degree,Junior Software Developer,2.0,36000.0
+44.0,Female,Master's Degree,Human Resources Manager,15.0,152000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,26000.0
+45.0,Male,PhD,Data Scientist,19.0,190000.0
+31.0,Male,Bachelor's Degree,Software Developer,6.0,85000.0
+41.0,Female,Master's Degree,Marketing Coordinator,13.0,131000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,101000.0
+30.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+44.0,Male,PhD,Data Scientist,18.0,182000.0
+35.0,Female,Bachelor's Degree,Human Resources Manager,8.0,92000.0
+26.0,Male,High School,Junior Sales Associate,1.0,26000.0
+37.0,Female,Master's Degree,Marketing Manager,12.0,125000.0
+29.0,Male,Bachelor's Degree,Software Engineer,4.0,71000.0
+51.0,Male,PhD,Data Scientist,24.0,240000.0
+28.0,Female,Bachelor's Degree,Junior Software Developer,2.0,36000.0
+44.0,Female,Master's Degree,Human Resources Manager,15.0,152000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,26000.0
+45.0,Male,PhD,Data Scientist,19.0,190000.0
+31.0,Male,Bachelor's Degree,Software Developer,6.0,85000.0
+41.0,Female,Master's Degree,Marketing Coordinator,13.0,131000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,101000.0
+30.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+44.0,Male,PhD,Data Scientist,18.0,182000.0
+35.0,Female,Bachelor's Degree,Human Resources Manager,8.0,92000.0
+26.0,Male,High School,Junior Sales Associate,1.0,26000.0
+37.0,Female,Master's Degree,Marketing Manager,12.0,125000.0
+29.0,Male,Bachelor's Degree,Software Engineer,4.0,71000.0
+51.0,Male,PhD,Data Scientist,24.0,240000.0
+28.0,Female,Bachelor's Degree,Junior Software Developer,2.0,36000.0
+44.0,Female,Master's Degree,Human Resources Manager,15.0,152000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,26000.0
+45.0,Male,PhD,Data Scientist,19.0,190000.0
+31.0,Male,Bachelor's Degree,Software Developer,6.0,85000.0
+41.0,Female,Master's Degree,Marketing Coordinator,13.0,131000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,101000.0
+30.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+44.0,Male,PhD,Data Scientist,18.0,182000.0
+35.0,Female,Bachelor's Degree,Human Resources Manager,8.0,92000.0
+26.0,Male,High School,Junior Sales Associate,1.0,26000.0
+37.0,Female,Master's Degree,Marketing Manager,12.0,125000.0
+29.0,Male,Bachelor's Degree,Software Engineer,4.0,71000.0
+51.0,Male,PhD,Data Scientist,24.0,240000.0
+28.0,Female,Bachelor's Degree,Junior Software Developer,2.0,36000.0
+44.0,Female,Master's Degree,Human Resources Manager,15.0,152000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,26000.0
+45.0,Male,PhD,Data Scientist,19.0,190000.0
+31.0,Male,Bachelor's Degree,Software Developer,6.0,85000.0
+41.0,Female,Master's Degree,Marketing Coordinator,13.0,131000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,101000.0
+30.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+44.0,Male,PhD,Data Scientist,18.0,182000.0
+35.0,Female,Bachelor's Degree,Human Resources Manager,8.0,92000.0
+26.0,Male,High School,Junior Sales Associate,1.0,26000.0
+37.0,Female,Master's Degree,Marketing Manager,12.0,125000.0
+29.0,Male,Bachelor's Degree,Software Engineer,4.0,71000.0
+51.0,Male,PhD,Data Scientist,24.0,240000.0
+28.0,Female,Bachelor's Degree,Junior Software Developer,2.0,36000.0
+44.0,Female,Master's Degree,Human Resources Manager,15.0,152000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,26000.0
+45.0,Male,PhD,Data Scientist,19.0,190000.0
+31.0,Male,Bachelor's Degree,Software Developer,6.0,85000.0
+41.0,Female,Master's Degree,Marketing Coordinator,13.0,131000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,101000.0
+30.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+44.0,Male,PhD,Data Scientist,18.0,182000.0
+35.0,Female,Bachelor's Degree,Human Resources Manager,8.0,92000.0
+26.0,Male,High School,Junior Sales Associate,1.0,26000.0
+37.0,Female,Master's Degree,Marketing Manager,12.0,125000.0
+29.0,Male,Bachelor's Degree,Software Engineer,4.0,71000.0
+51.0,Male,PhD,Data Scientist,24.0,240000.0
+28.0,Female,Bachelor's Degree,Junior Software Developer,2.0,36000.0
+44.0,Female,Master's Degree,Human Resources Manager,15.0,152000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,26000.0
+45.0,Male,PhD,Data Scientist,19.0,190000.0
+31.0,Male,Bachelor's Degree,Software Developer,6.0,85000.0
+41.0,Female,Master's Degree,Marketing Coordinator,13.0,131000.0
+27.0,Male,Bachelor's Degree,Software Developer,3.0,62000.0
+42.0,Female,Master's Degree,Marketing Manager,16.0,137000.0
+35.0,Male,PhD,Data Scientist,9.0,112000.0
+29.0,Female,Bachelor's Degree,Human Resources Coordinator,2.0,45000.0
+33.0,Male,High School,Junior Sales Associate,1.0,25000.0
+36.0,Female,Bachelor's Degree,Operations Manager,7.0,91000.0
+43.0,Male,PhD,Data Scientist,17.0,179000.0
+31.0,Female,Bachelor's Degree,Software Engineer,5.0,74000.0
+49.0,Male,Master's Degree,Marketing Manager,23.0,228000.0
+28.0,Female,Bachelor's Degree,Junior Software Developer,2.0,37000.0
+45.0,Female,PhD,Data Scientist,19.0,193000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+27.0,Female,Bachelor's Degree,Software Developer,3.0,61000.0
+41.0,Male,PhD,Data Scientist,15.0,157000.0
+35.0,Female,Master's Degree,Human Resources Manager,8.0,92000.0
+26.0,Male,Bachelor's Degree,Software Engineer,1.0,52000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,58000.0
+48.0,Male,PhD,Data Scientist,22.0,219000.0
+32.0,Female,Master's Degree,Marketing Manager,6.0,77000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,104000.0
+31.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+28.0,Female,Bachelor's Degree,Junior Software Developer,2.0,37000.0
+44.0,Female,PhD,Data Scientist,18.0,183000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+27.0,Female,Bachelor's Degree,Software Developer,3.0,61000.0
+41.0,Male,PhD,Data Scientist,15.0,157000.0
+35.0,Female,Master's Degree,Human Resources Manager,8.0,92000.0
+26.0,Male,Bachelor's Degree,Software Engineer,1.0,52000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,58000.0
+48.0,Male,PhD,Data Scientist,22.0,219000.0
+32.0,Female,Master's Degree,Marketing Manager,6.0,77000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,104000.0
+31.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+28.0,Female,Bachelor's Degree,Junior Software Developer,2.0,37000.0
+44.0,Female,PhD,Data Scientist,18.0,183000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+27.0,Female,Bachelor's Degree,Software Developer,3.0,61000.0
+41.0,Male,PhD,Data Scientist,15.0,157000.0
+35.0,Female,Master's Degree,Human Resources Manager,8.0,92000.0
+26.0,Male,Bachelor's Degree,Software Engineer,1.0,52000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,58000.0
+48.0,Male,PhD,Data Scientist,22.0,219000.0
+32.0,Female,Master's Degree,Marketing Manager,6.0,77000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,104000.0
+31.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+28.0,Female,Bachelor's Degree,Junior Software Developer,2.0,37000.0
+44.0,Female,PhD,Data Scientist,18.0,183000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+27.0,Female,Bachelor's Degree,Software Developer,3.0,61000.0
+41.0,Male,PhD,Data Scientist,15.0,157000.0
+35.0,Female,Master's Degree,Human Resources Manager,8.0,92000.0
+26.0,Male,Bachelor's Degree,Software Engineer,1.0,52000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,58000.0
+48.0,Male,PhD,Data Scientist,22.0,219000.0
+32.0,Female,Master's Degree,Marketing Manager,6.0,77000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,104000.0
+31.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+28.0,Female,Bachelor's Degree,Junior Software Developer,2.0,37000.0
+44.0,Female,PhD,Data Scientist,18.0,183000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+27.0,Female,Bachelor's Degree,Software Developer,3.0,61000.0
+41.0,Male,PhD,Data Scientist,15.0,157000.0
+35.0,Female,Master's Degree,Human Resources Manager,8.0,92000.0
+26.0,Male,Bachelor's Degree,Software Engineer,1.0,52000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,58000.0
+48.0,Male,PhD,Data Scientist,22.0,219000.0
+32.0,Female,Master's Degree,Marketing Manager,6.0,77000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,104000.0
+31.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+28.0,Female,Bachelor's Degree,Junior Software Developer,2.0,37000.0
+44.0,Female,PhD,Data Scientist,18.0,183000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+27.0,Female,Bachelor's Degree,Software Developer,3.0,61000.0
+41.0,Male,PhD,Data Scientist,15.0,157000.0
+35.0,Female,Master's Degree,Human Resources Manager,8.0,92000.0
+26.0,Male,Bachelor's Degree,Software Engineer,1.0,52000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,58000.0
+48.0,Male,PhD,Data Scientist,22.0,219000.0
+32.0,Female,Master's Degree,Marketing Manager,6.0,77000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,104000.0
+31.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+28.0,Female,Bachelor's Degree,Junior Software Developer,2.0,37000.0
+44.0,Female,PhD,Data Scientist,18.0,183000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+27.0,Female,Bachelor's Degree,Software Developer,3.0,61000.0
+41.0,Male,PhD,Data Scientist,15.0,157000.0
+35.0,Female,Master's Degree,Human Resources Manager,8.0,92000.0
+26.0,Male,Bachelor's Degree,Software Engineer,1.0,52000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,58000.0
+48.0,Male,PhD,Data Scientist,22.0,219000.0
+32.0,Female,Master's Degree,Marketing Manager,6.0,77000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,104000.0
+31.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+28.0,Female,Bachelor's Degree,Junior Software Developer,2.0,37000.0
+44.0,Female,PhD,Data Scientist,18.0,183000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+27.0,Female,Bachelor's Degree,Software Developer,3.0,61000.0
+41.0,Male,PhD,Data Scientist,15.0,157000.0
+35.0,Female,Master's Degree,Human Resources Manager,8.0,92000.0
+26.0,Male,Bachelor's Degree,Software Engineer,1.0,52000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,58000.0
+48.0,Male,PhD,Data Scientist,22.0,219000.0
+32.0,Female,Master's Degree,Marketing Manager,6.0,77000.0
+31.0,Female,Master's Degree,Director of HR,6.0,95000.0
+28.0,Male,Bachelor's Degree,Junior Web Developer,2.0,45000.0
+29.0,Female,Master's Degree,Senior HR Generalist,4.0,70000.0
+35.0,Male,PhD,Senior Human Resources Manager,10.0,110000.0
+26.0,Female,High School,Web Developer,1.0,35000.0
+32.0,Male,Bachelor's Degree,Junior HR Generalist,5.0,60000.0
+27.0,Female,Master's Degree,Web Developer,2.0,50000.0
+39.0,Male,Master's Degree,Director of HR,12.0,120000.0
+23.0,Female,Bachelor's Degree,Junior HR Generalist,1.0,32000.0
+30.0,Male,Bachelor's Degree,Web Developer,4.0,65000.0
+26.0,Female,Bachelor's Degree,Junior HR Coordinator,1.0,35000.0
+42.0,Male,PhD,Senior Human Resources Manager,14.0,130000.0
+34.0,Female,Master's Degree,Director of HR,9.0,95000.0
+28.0,Male,High School,Juniour HR Generalist,2.0,43000.0
+31.0,Female,Bachelor's Degree,Junior HR Coordinator,4.0,50000.0
+29.0,Male,Bachelor's Degree,Web Developer,3.0,60000.0
+35.0,Female,Master's Degree,Senior HR Generalist,8.0,80000.0
+26.0,Male,Master's Degree,Junior Web Developer,2.0,48000.0
+40.0,Female,PhD,Director of HR,13.0,125000.0
+34.0,Male,Bachelor's Degree,Web Developer,7.0,85000.0
+26.0,Female,Bachelor's Degree,Junior HR Generalist,2.0,42000.0
+29.0,Male,Master's Degree,Senior HR Generalist,4.0,70000.0
+25.0,Female,High School,Juniour HR Coordinator,1.0,32000.0
+33.0,Male,Master's Degree,Web Developer,6.0,80000.0
+27.0,Female,Bachelor's Degree,Junior HR Generalist,2.0,42000.0
+31.0,Male,PhD,Senior Human Resources Manager,7.0,90000.0
+29.0,Female,Master's Degree,Web Developer,4.0,65000.0
+24.0,Male,Bachelor's Degree,Junior Web Developer,1.0,40000.0
+42.0,Female,Master's Degree,Senior HR Generalist,12.0,110000.0
+34.0,Male,Master's Degree,Director of HR,10.0,105000.0
+28.0,Female,Bachelor's Degree,Junior HR Generalist,3.0,50000.0
+33.0,Male,PhD,Director of HR,8.0,95000.0
+29.0,Female,Bachelor's Degree,Web Developer,3.0,60000.0
+25.0,Male,High School,Junior HR Generalist,2.0,40000.0
+26.0,Female,Master's Degree,Senior HR Generalist,2.0,55000.0
+30.0,Male,Bachelor's Degree,Web Developer,5.0,70000.0
+24.0,Female,High School,Juniour HR Coordinator,1.0,32000.0
+31.0,Male,Master's Degree,Director of HR,7.0,90000.0
+27.0,Female,Bachelor's Degree,Web Developer,2.0,50000.0
+35.0,Male,PhD,Senior Human Resources Manager,10.0,110000.0
+26.0,Female,Bachelor's Degree,Junior HR Generalist,1.0,32000.0
+32.0,Male,Master's Degree,Web Developer,6.0,80000.0
+29.0,Female,Master's Degree,Senior HR Generalist,4.0,70000.0
+25.0,Male,High School,Web Developer,2.0,45000.0
+33.0,Female,Bachelor's Degree,Junior HR Generalist,7.0,65000.0
+27.0,Male,Master's Degree,Web Developer,2.0,50000.0
+28.0,Female,Bachelor's Degree,Junior HR Coordinator,3.0,45000.0
+34.0,Male,PhD,Director of HR,9.0,95000.0
+30.0,Female,Bachelor's Degree,Web Developer,4.0,65000.0
+26.0,Male,Bachelor's Degree,Junior HR Coordinator,2.0,38000.0
+42.0,Female,Master's Degree,Senior Human Resources Manager,13.0,125000.0
+34.0,Male,Master's Degree,Web Developer,8.0,90000.0
+28.0,Female,High School,Juniour HR Generalist,2.0,43000.0
+31.0,Male,Bachelor's Degree,Junior HR Generalist,5.0,60000.0
+29.0,Female,Master's Degree,Web Developer,3.0,60000.0
+35.0,Male,PhD,Senior Human Resources Manager,10.0,110000.0
+26.0,Female,Bachelor's Degree,Web Developer,1.0,35000.0
+32.0,Male,Master's Degree,Director of HR,6.0,95000.0
+27.0,Female,Master's Degree,Junior HR Generalist,2.0,42000.0
+39.0,Male,Master's Degree,Senior HR Generalist,11.0,100000.0
+23.0,Female,Bachelor's Degree,Junior HR Coordinator,1.0,32000.0
+30.0,Male,Bachelor's Degree,Web Developer,4.0,65000.0
+26.0,Female,Bachelor's Degree,Junior HR Generalist,2.0,42000.0
+42.0,Male,PhD,Director of HR,14.0,130000.0
+34.0,Female,Master's Degree,Director of HR,9.0,95000.0
+28.0,Male,High School,Junior Web Developer,2.0,43000.0
+31.0,Female,Bachelor's Degree,Junior HR Coordinator,4.0,50000.0
+29.0,Male,Bachelor's Degree,Web Developer,3.0,60000.0
+35.0,Female,Master's Degree,Senior HR Generalist,8.0,80000.0
+26.0,Male,Master's Degree,Junior Web Developer,2.0,48000.0
+40.0,Female,PhD,Director of HR,13.0,125000.0
+34.0,Male,Bachelor's Degree,Web Developer,7.0,85000.0
+26.0,Female,Bachelor's Degree,Junior HR Generalist,2.0,42000.0
+29.0,Male,Master's Degree,Senior HR Generalist,4.0,70000.0
+25.0,Female,High School,Junior HR Coordinator,1.0,32000.0
+33.0,Male,Master's Degree,Web Developer,6.0,80000.0
+27.0,Female,Bachelor's Degree,Junior HR Generalist,2.0,42000.0
+31.0,Male,PhD,Senior Human Resources Manager,7.0,90000.0
+29.0,Female,Master's Degree,Web Developer,4.0,65000.0
+24.0,Male,Bachelor's Degree,Junior Web Developer,1.0,40000.0
+42.0,Female,Master's Degree,Senior HR Generalist,12.0,110000.0
+34.0,Male,Master's Degree,Director of HR,10.0,105000.0
+28.0,Female,Bachelor's Degree,Junior HR Generalist,3.0,50000.0
+33.0,Male,PhD,Director of HR,8.0,95000.0
+29.0,Female,Bachelor's Degree,Web Developer,3.0,60000.0
+25.0,Male,High School,Junior HR Generalist,2.0,40000.0
+26.0,Female,Master's Degree,Senior HR Generalist,2.0,55000.0
+30.0,Male,Bachelor's Degree,Web Developer,5.0,70000.0
+24.0,Female,High School,Juniour HR Coordinator,1.0,32000.0
+31.0,Male,Master's Degree,Director of HR,7.0,90000.0
+27.0,Female,Bachelor's Degree,Web Developer,2.0,50000.0
+35.0,Male,PhD,Senior Human Resources Manager,10.0,110000.0
+26.0,Female,Bachelor's Degree,Junior HR Generalist,1.0,32000.0
+32.0,Male,Master's Degree,Web Developer,6.0,80000.0
+29.0,Female,Master's Degree,Senior HR Generalist,4.0,70000.0
+25.0,Male,High School,Web Developer,2.0,45000.0
+33.0,Female,Bachelor's Degree,Junior HR Generalist,7.0,65000.0
+27.0,Male,Master's Degree,Web Developer,2.0,50000.0
+28.0,Female,Bachelor's Degree,Junior HR Coordinator,3.0,45000.0
+34.0,Male,PhD,Director of HR,9.0,95000.0
+30.0,Female,Bachelor's Degree,Web Developer,4.0,65000.0
+26.0,Male,Bachelor's Degree,Junior HR Coordinator,2.0,38000.0
+42.0,Female,Master's Degree,Senior Human Resources Manager,13.0,125000.0
+34.0,Male,Master's Degree,Web Developer,8.0,90000.0
+28.0,Female,High School,Juniour HR Generalist,2.0,43000.0
+31.0,Male,Bachelor's Degree,Junior HR Generalist,5.0,60000.0
+29.0,Female,Master's Degree,Web Developer,3.0,60000.0
+35.0,Male,PhD,Senior Human Resources Manager,10.0,110000.0
+26.0,Female,Bachelor's Degree,Web Developer,1.0,35000.0
+32.0,Male,Master's Degree,Director of HR,6.0,95000.0
+27.0,Female,Master's Degree,Junior HR Generalist,2.0,42000.0
+39.0,Male,Master's Degree,Senior HR Generalist,11.0,100000.0
+23.0,Female,Bachelor's Degree,Junior HR Coordinator,1.0,32000.0
+30.0,Male,Bachelor's Degree,Web Developer,4.0,65000.0
+26.0,Female,Bachelor's Degree,Junior HR Generalist,2.0,42000.0
+42.0,Male,PhD,Director of HR,14.0,130000.0
+34.0,Female,Master's Degree,Director of HR,9.0,95000.0
+28.0,Male,High School,Junior Web Developer,2.0,43000.0
+31.0,Female,Bachelor's Degree,Junior HR Coordinator,4.0,500.0
+27.0,Female,Bachelor's Degree,Junior Software Engineer,1.0,45000.0
+33.0,Male,Master's Degree,Senior Data Scientist,8.0,120000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0
+31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0
+38.0,Female,PhD,Senior Research Scientist,12.0,140000.0
+25.0,Male,High School,Junior Sales Associate,1.0,30000.0
+32.0,Female,Master's Degree,Senior Software Engineer,7.0,100000.0
+27.0,Male,Bachelor's Degree,Junior Data Analyst,2.0,50000.0
+29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0
+35.0,Male,PhD,Senior Research Scientist,10.0,130000.0
+26.0,Female,Bachelor's Degree,Junior Software Engineer,1.0,45000.0
+33.0,Male,Master's Degree,Senior Data Scientist,8.0,120000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0
+31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0
+38.0,Female,PhD,Senior Research Scientist,12.0,140000.0
+25.0,Male,High School,Junior Sales Associate,1.0,30000.0
+32.0,Female,Master's Degree,Senior Software Engineer,7.0,100000.0
+27.0,Male,Bachelor's Degree,Junior Data Analyst,2.0,50000.0
+29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0
+35.0,Male,PhD,Senior Research Scientist,10.0,130000.0
+26.0,Female,Bachelor's Degree,Junior Software Engineer,1.0,45000.0
+33.0,Male,Master's Degree,Senior Data Scientist,8.0,120000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0
+31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0
+38.0,Female,PhD,Senior Research Scientist,12.0,140000.0
+25.0,Male,High School,Junior Sales Associate,1.0,30000.0
+32.0,Female,Master's Degree,Senior Software Engineer,7.0,100000.0
+27.0,Male,Bachelor's Degree,Junior Data Analyst,2.0,50000.0
+29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0
+35.0,Male,PhD,Senior Research Scientist,10.0,130000.0
+26.0,Female,Bachelor's Degree,Junior Software Engineer,1.0,45000.0
+33.0,Male,Master's Degree,Senior Data Scientist,8.0,120000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0
+31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0
+38.0,Female,PhD,Senior Research Scientist,12.0,140000.0
+25.0,Male,High School,Junior Sales Associate,1.0,30000.0
+32.0,Female,Master's Degree,Senior Software Engineer,7.0,100000.0
+27.0,Male,Bachelor's Degree,Junior Data Analyst,2.0,50000.0
+29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0
+35.0,Male,PhD,Senior Research Scientist,10.0,130000.0
+26.0,Female,Bachelor's Degree,Junior Software Engineer,1.0,45000.0
+33.0,Male,Master's Degree,Senior Data Scientist,8.0,120000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0
+31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0
+38.0,Female,PhD,Senior Research Scientist,12.0,140000.0
+25.0,Male,High School,Junior Sales Associate,1.0,30000.0
+32.0,Female,Master's Degree,Senior Software Engineer,7.0,100000.0
+27.0,Male,Bachelor's Degree,Junior Data Analyst,2.0,50000.0
+29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0
+35.0,Male,PhD,Senior Research Scientist,10.0,130000.0
+26.0,Female,Bachelor's Degree,Junior Software Engineer,1.0,45000.0
+33.0,Male,Master's Degree,Senior Data Scientist,8.0,120000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0
+31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0
+38.0,Female,PhD,Senior Research Scientist,12.0,140000.0
+25.0,Male,High School,Junior Sales Associate,1.0,30000.0
+32.0,Female,Master's Degree,Senior Software Engineer,7.0,100000.0
+27.0,Male,Bachelor's Degree,Junior Data Analyst,2.0,50000.0
+29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0
+35.0,Male,PhD,Senior Research Scientist,10.0,130000.0
+26.0,Female,Bachelor's Degree,Junior Software Engineer,1.0,45000.0
+33.0,Male,Master's Degree,Senior Data Scientist,8.0,120000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0
+31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0
+38.0,Female,PhD,Senior Research Scientist,12.0,140000.0
+25.0,Male,High School,Junior Sales Associate,1.0,30000.0
+32.0,Female,Master's Degree,Senior Software Engineer,7.0,100000.0
+27.0,Male,Bachelor's Degree,Junior Data Analyst,2.0,50000.0
+29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0
+35.0,Male,PhD,Senior Research Scientist,10.0,130000.0
+26.0,Female,Bachelor's Degree,Junior Software Engineer,1.0,45000.0
+33.0,Male,Master's Degree,Senior Data Scientist,8.0,120000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0
+31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0
+38.0,Female,PhD,Senior Research Scientist,12.0,140000.0
+25.0,Male,High School,Junior Sales Associate,1.0,30000.0
+32.0,Female,Master's Degree,Senior Software Engineer,7.0,100000.0
+27.0,Male,Bachelor's Degree,Junior Data Analyst,2.0,50000.0
+29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0
+35.0,Male,PhD,Senior Research Scientist,10.0,130000.0
+26.0,Female,Bachelor's Degree,Junior Software Engineer,1.0,45000.0
+33.0,Male,Master's Degree,Senior Data Scientist,8.0,120000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0
+31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0
+38.0,Female,PhD,Senior Research Scientist,12.0,140000.0
+25.0,Male,High School,Junior Sales Associate,1.0,30000.0
+32.0,Female,Master's Degree,Senior Software Engineer,7.0,100000.0
+27.0,Male,Bachelor's Degree,Junior Data Analyst,2.0,50000.0
+29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0
+35.0,Male,PhD,Senior Research Scientist,10.0,130000.0
+26.0,Female,Bachelor's Degree,Junior Software Engineer,1.0,45000.0
+33.0,Male,Master's Degree,Senior Data Scientist,8.0,120000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0
+31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0
+38.0,Female,PhD,Senior Research Scientist,12.0,140000.0
+25.0,Male,High School,Junior Sales Associate,1.0,30000.0
+32.0,Female,Master's Degree,Senior Software Engineer,7.0,100000.0
+27.0,Male,Bachelor's Degree,Junior Data Analyst,2.0,50000.0
+29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0
+35.0,Male,PhD,Senior Research Scientist,10.0,130000.0
+26.0,Female,Bachelor's Degree,Junior Software Engineer,1.0,45000.0
+33.0,Male,Master's Degree,Senior Data Scientist,8.0,120000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0
+31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0
+38.0,Female,PhD,Senior Research Scientist,12.0,140000.0
+25.0,Male,High School,Junior Sales Associate,1.0,30000.0
+32.0,Female,Master's Degree,Senior Software Engineer,7.0,100000.0
+27.0,Male,Bachelor's Degree,Junior Data Analyst,2.0,50000.0
+29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0
+35.0,Male,PhD,Senior Research Scientist,10.0,130000.0
+26.0,Female,Bachelor's Degree,Junior Software Engineer,1.0,45000.0
+33.0,Male,Master's Degree,Senior Data Scientist,8.0,120000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0
+31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0
+38.0,Female,PhD,Senior Research Scientist,12.0,140000.0
+25.0,Male,High School,Junior Sales Associate,1.0,30000.0
+32.0,Female,Master's Degree,Senior Software Engineer,7.0,100000.0
+27.0,Male,Bachelor's Degree,Junior Data Analyst,2.0,50000.0
+29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0
+35.0,Male,PhD,Senior Research Scientist,10.0,130000.0
+26.0,Female,Bachelor's Degree,Junior Software Engineer,1.0,45000.0
+28.0,Female,Bachelor's Degree,Junior Software Engineer,2.0,48000.0
+36.0,Male,Master's Degree,Senior Data Scientist,9.0,125000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0
+32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0
+39.0,Female,PhD,Senior Research Scientist,13.0,145000.0
+26.0,Male,High School,Junior Sales Associate,2.0,31000.0
+33.0,Female,Master's Degree,Senior Software Engineer,8.0,105000.0
+28.0,Male,Bachelor's Degree,Junior Data Analyst,3.0,52000.0
+30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0
+36.0,Male,PhD,Senior Research Scientist,11.0,135000.0
+27.0,Female,Bachelor's Degree,Junior Software Engineer,2.0,48000.0
+34.0,Male,Master's Degree,Senior Data Scientist,9.0,125000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0
+32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0
+39.0,Female,PhD,Senior Research Scientist,13.0,145000.0
+26.0,Male,High School,Junior Sales Associate,2.0,31000.0
+33.0,Female,Master's Degree,Senior Software Engineer,8.0,105000.0
+28.0,Male,Bachelor's Degree,Junior Data Analyst,3.0,52000.0
+30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0
+36.0,Male,PhD,Senior Research Scientist,11.0,135000.0
+27.0,Female,Bachelor's Degree,Junior Software Engineer,2.0,48000.0
+34.0,Male,Master's Degree,Senior Data Scientist,9.0,125000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0
+32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0
+39.0,Female,PhD,Senior Research Scientist,13.0,145000.0
+26.0,Male,High School,Junior Sales Associate,2.0,31000.0
+33.0,Female,Master's Degree,Senior Software Engineer,8.0,105000.0
+28.0,Male,Bachelor's Degree,Junior Data Analyst,3.0,52000.0
+30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0
+36.0,Male,PhD,Senior Research Scientist,11.0,135000.0
+27.0,Female,Bachelor's Degree,Junior Software Engineer,2.0,48000.0
+34.0,Male,Master's Degree,Senior Data Scientist,9.0,125000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0
+32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0
+39.0,Female,PhD,Senior Research Scientist,13.0,145000.0
+26.0,Male,High School,Junior Sales Associate,2.0,31000.0
+33.0,Female,Master's Degree,Senior Software Engineer,8.0,105000.0
+28.0,Male,Bachelor's Degree,Junior Data Analyst,3.0,52000.0
+30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0
+36.0,Male,PhD,Senior Research Scientist,11.0,135000.0
+27.0,Female,Bachelor's Degree,Junior Software Engineer,2.0,48000.0
+34.0,Male,Master's Degree,Senior Data Scientist,9.0,125000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0
+32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0
+39.0,Female,PhD,Senior Research Scientist,13.0,145000.0
+26.0,Male,High School,Junior Sales Associate,2.0,31000.0
+33.0,Female,Master's Degree,Senior Software Engineer,8.0,105000.0
+28.0,Male,Bachelor's Degree,Junior Data Analyst,3.0,52000.0
+30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0
+36.0,Male,PhD,Senior Research Scientist,11.0,135000.0
+27.0,Female,Bachelor's Degree,Junior Software Engineer,2.0,48000.0
+34.0,Male,Master's Degree,Senior Data Scientist,9.0,125000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0
+32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0
+39.0,Female,PhD,Senior Research Scientist,13.0,145000.0
+26.0,Male,High School,Junior Sales Associate,2.0,31000.0
+33.0,Female,Master's Degree,Senior Software Engineer,8.0,105000.0
+28.0,Male,Bachelor's Degree,Junior Data Analyst,3.0,52000.0
+30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0
+36.0,Male,PhD,Senior Research Scientist,11.0,135000.0
+27.0,Female,Bachelor's Degree,Junior Software Engineer,2.0,48000.0
+34.0,Male,Master's Degree,Senior Data Scientist,9.0,125000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0
+32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0
+39.0,Female,PhD,Senior Research Scientist,13.0,145000.0
+26.0,Male,High School,Junior Sales Associate,2.0,31000.0
+33.0,Female,Master's Degree,Senior Software Engineer,8.0,105000.0
+28.0,Male,Bachelor's Degree,Junior Data Analyst,3.0,52000.0
+30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0
+36.0,Male,PhD,Senior Research Scientist,11.0,135000.0
+27.0,Female,Bachelor's Degree,Junior Software Engineer,2.0,48000.0
+34.0,Male,Master's Degree,Senior Data Scientist,9.0,125000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0
+32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0
+39.0,Female,PhD,Senior Research Scientist,13.0,145000.0
+26.0,Male,High School,Junior Sales Associate,2.0,31000.0
+33.0,Female,Master's Degree,Senior Software Engineer,8.0,105000.0
+28.0,Male,Bachelor's Degree,Junior Data Analyst,3.0,52000.0
+30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0
+36.0,Male,PhD,Senior Research Scientist,11.0,135000.0
+27.0,Female,Bachelor's Degree,Junior Software Engineer,2.0,48000.0
+34.0,Male,Master's Degree,Senior Data Scientist,9.0,125000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0
+32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0
+39.0,Female,PhD,Senior Research Scientist,13.0,145000.0
+26.0,Male,High School,Junior Sales Associate,2.0,31000.0
+33.0,Female,Master's Degree,Senior Software Engineer,8.0,105000.0
+28.0,Male,Bachelor's Degree,Junior Data Analyst,3.0,52000.0
+30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0
+36.0,Male,PhD,Senior Research Scientist,11.0,135000.0
+27.0,Female,Bachelor's Degree,Junior Software Engineer,2.0,48000.0
+34.0,Male,Master's Degree,Senior Data Scientist,9.0,125000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0
+32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0
+39.0,Female,PhD,Senior Research Scientist,13.0,145000.0
+26.0,Male,High School,Junior Sales Associate,2.0,31000.0
+33.0,Female,Master's Degree,Senior Software Engineer,8.0,105000.0
+28.0,Male,Bachelor's Degree,Junior Data Analyst,3.0,52000.0
+30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0
+36.0,Male,PhD,Senior Research Scientist,11.0,135000.0
+27.0,Female,Bachelor's Degree,Junior Software Engineer,2.0,48000.0
+34.0,Male,Master's Degree,Senior Data Scientist,9.0,125000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0
+32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0
+39.0,Female,PhD,Senior Research Scientist,13.0,145000.0
+26.0,Male,High School,Junior Sales Associate,2.0,31000.0
+33.0,Female,Master's Degree,Senior Software Engineer,8.0,105000.0
+28.0,Male,Bachelor's Degree,Junior Data Analyst,3.0,52000.0
+30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0
+36.0,Male,PhD,Senior Research Scientist,11.0,135000.0
+27.0,Female,Bachelor's Degree,Junior Software Engineer,2.0,48000.0
+34.0,Male,Master's Degree,Senior Data Scientist,9.0,125000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0
+32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0
+39.0,Female,PhD,Senior Research Scientist,13.0,145000.0
+26.0,Male,High School,Junior Sales Associate,2.0,31000.0
+33.0,Female,Master's Degree,Senior Software Engineer,8.0,105000.0
+28.0,Male,Bachelor's Degree,Junior Data Analyst,3.0,52000.0
+30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0
+36.0,Male,PhD,Senior Research Scientist,11.0,135000.0
+27.0,Female,Bachelor's Degree,Junior Software Engineer,2.0,48000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0

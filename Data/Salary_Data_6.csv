@@ -1,0 +1,1001 @@
+Age,Gender,Education Level,Job Title,Years of Experience,Salary
+22.0,Female,High School,Sales Associate,0.0,25000.0
+45.0,Male,Bachelor's Degree,Financial Manager,21.0,250000.0
+31.0,Female,Master's Degree,Content Marketing Manager,8.0,120000.0
+28.0,Male,Bachelor's Degree,Digital Marketing Manager,4.0,80000.0
+29.0,Male,Bachelor's Degree,Senior Product Marketing Manager,6.0,100000.0
+35.0,Female,PhD,Director of Marketing,12.0,170000.0
+27.0,Male,High School,Sales Representative,3.0,50000.0
+33.0,Female,Bachelor's Degree,Marketing Manager,9.0,140000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,2.0,55000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+29.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+23.0,Male,Bachelor's Degree,Software Engineer,1.0,60000.0
+39.0,Female,Master's Degree,Marketing Manager,12.0,150000.0
+28.0,Male,Bachelor's Degree,Financial Analyst,4.0,80000.0
+31.0,Female,PhD,Research Scientist,8.0,120000.0
+35.0,Male,Bachelor's Degree,Project Manager,10.0,130000.0
+27.0,Female,Bachelor's Degree,Graphic Designer,2.0,50000.0
+42.0,Male,Master's Degree,Senior Software Engineer,18.0,180000.0
+29.0,Female,Bachelor's Degree,Digital Marketing Specialist,3.0,60000.0
+33.0,Male,Bachelor's Degree,Marketing Manager,7.0,110000.0
+24.0,Female,High School,Sales Associate,0.0,25000.0
+30.0,Male,Master's Degree,Financial Analyst,6.0,100000.0
+26.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+32.0,Male,PhD,Data Scientist,9.0,140000.0
+22.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Bachelor's Degree,Product Manager,12.0,150000.0
+38.0,Female,Master's Degree,Marketing Director,14.0,170000.0
+25.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+27.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0
+34.0,Female,PhD,Research Director,10.0,150000.0
+26.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0
+31.0,Female,Master's Degree,Financial Manager,7.0,120000.0
+25.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+27.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0
+34.0,Female,PhD,Research Director,10.0,150000.0
+26.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0
+31.0,Female,Master's Degree,Financial Manager,7.0,120000.0
+23.0,Male,Bachelor's Degree,Software Engineer,1.0,60000.0
+39.0,Female,Master's Degree,Marketing Manager,12.0,150000.0
+28.0,Male,Bachelor's Degree,Financial Analyst,4.0,80000.0
+31.0,Female,PhD,Research Scientist,8.0,120000.0
+35.0,Male,Bachelor's Degree,Project Manager,10.0,130000.0
+27.0,Female,Bachelor's Degree,Graphic Designer,2.0,50000.0
+42.0,Male,Master's Degree,Senior Software Engineer,18.0,180000.0
+29.0,Female,Bachelor's Degree,Digital Marketing Specialist,3.0,60000.0
+33.0,Male,Bachelor's Degree,Marketing Manager,7.0,110000.0
+24.0,Female,High School,Sales Associate,0.0,25000.0
+30.0,Male,Master's Degree,Financial Analyst,6.0,100000.0
+26.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+32.0,Male,PhD,Data Scientist,9.0,140000.0
+22.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Bachelor's Degree,Product Manager,12.0,150000.0
+38.0,Female,Master's Degree,Marketing Director,14.0,170000.0
+25.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+27.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0
+34.0,Female,PhD,Research Director,10.0,150000.0
+26.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0
+31.0,Female,Master's Degree,Financial Manager,7.0,120000.0
+25.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+27.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0
+34.0,Female,PhD,Research Director,10.0,150000.0
+26.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0
+31.0,Female,Master's Degree,Financial Manager,7.0,120000.0
+23.0,Male,Bachelor's Degree,Software Engineer,1.0,60000.0
+39.0,Female,Master's Degree,Marketing Manager,12.0,150000.0
+28.0,Male,Bachelor's Degree,Financial Analyst,4.0,80000.0
+31.0,Female,PhD,Research Scientist,8.0,120000.0
+35.0,Male,Bachelor's Degree,Project Manager,10.0,130000.0
+27.0,Female,Bachelor's Degree,Graphic Designer,2.0,50000.0
+42.0,Male,Master's Degree,Senior Software Engineer,18.0,180000.0
+29.0,Female,Bachelor's Degree,Digital Marketing Specialist,3.0,60000.0
+33.0,Male,Bachelor's Degree,Marketing Manager,7.0,110000.0
+24.0,Female,High School,Sales Associate,0.0,25000.0
+30.0,Male,Master's Degree,Financial Analyst,6.0,100000.0
+26.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+32.0,Male,PhD,Data Scientist,9.0,140000.0
+22.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Bachelor's Degree,Product Manager,12.0,150000.0
+38.0,Female,Master's Degree,Marketing Director,14.0,170000.0
+25.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+27.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0
+34.0,Female,PhD,Research Director,10.0,150000.0
+26.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0
+31.0,Female,Master's Degree,Financial Manager,7.0,120000.0
+25.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+27.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0
+34.0,Female,PhD,Research Director,10.0,150000.0
+26.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0
+31.0,Female,Master's Degree,Financial Manager,7.0,120000.0
+23.0,Male,Bachelor's Degree,Software Engineer,1.0,60000.0
+39.0,Female,Master's Degree,Marketing Manager,12.0,150000.0
+28.0,Male,Bachelor's Degree,Financial Analyst,4.0,80000.0
+31.0,Female,PhD,Research Scientist,8.0,120000.0
+35.0,Male,Bachelor's Degree,Project Manager,10.0,130000.0
+27.0,Female,Bachelor's Degree,Graphic Designer,2.0,50000.0
+42.0,Male,Master's Degree,Senior Software Engineer,18.0,180000.0
+29.0,Female,Bachelor's Degree,Digital Marketing Specialist,3.0,60000.0
+33.0,Male,Bachelor's Degree,Marketing Manager,7.0,110000.0
+24.0,Female,High School,Sales Associate,0.0,25000.0
+30.0,Male,Master's Degree,Financial Analyst,6.0,100000.0
+26.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+32.0,Male,PhD,Data Scientist,9.0,140000.0
+22.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Bachelor's Degree,Product Manager,12.0,150000.0
+38.0,Female,Master's Degree,Marketing Director,14.0,170000.0
+25.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+27.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0
+34.0,Female,PhD,Research Director,10.0,150000.0
+26.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0
+31.0,Female,Master's Degree,Financial Manager,7.0,120000.0
+25.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+27.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0
+34.0,Female,PhD,Research Director,10.0,150000.0
+26.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0
+31.0,Female,Master's Degree,Financial Manager,7.0,120000.0
+23.0,Male,Bachelor's Degree,Software Engineer,1.0,60000.0
+39.0,Female,Master's Degree,Marketing Manager,12.0,150000.0
+28.0,Male,Bachelor's Degree,Financial Analyst,4.0,80000.0
+31.0,Female,PhD,Research Scientist,8.0,120000.0
+35.0,Male,Bachelor's Degree,Project Manager,10.0,130000.0
+27.0,Female,Bachelor's Degree,Graphic Designer,2.0,50000.0
+42.0,Male,Master's Degree,Senior Software Engineer,18.0,180000.0
+29.0,Female,Bachelor's Degree,Digital Marketing Specialist,3.0,60000.0
+33.0,Male,Bachelor's Degree,Marketing Manager,7.0,110000.0
+24.0,Female,High School,Sales Associate,0.0,25000.0
+30.0,Male,Master's Degree,Financial Analyst,6.0,100000.0
+26.0,Female,Bachelor's Degree,Social M,,
+28.0,Male,Bachelor's Degree,Software Engineer,3.0,85000.0
+36.0,Female,Master's Degree,Marketing Director,11.0,160000.0
+25.0,Male,Bachelor's Degree,Financial Analyst,1.0,55000.0
+29.0,Female,PhD,Data Scientist,5.0,100000.0
+33.0,Male,Bachelor's Degree,Project Manager,8.0,120000.0
+27.0,Female,Bachelor's Degree,Graphic Designer,2.0,50000.0
+43.0,Male,Master's Degree,Senior Software Engineer,19.0,185000.0
+30.0,Female,Bachelor's Degree,Digital Marketing Specialist,4.0,65000.0
+34.0,Male,Bachelor's Degree,Marketing Manager,9.0,130000.0
+25.0,Female,High School,Sales Associate,0.0,25000.0
+31.0,Male,Master's Degree,Financial Analyst,6.0,100000.0
+27.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+33.0,Male,PhD,Research Scientist,10.0,150000.0
+23.0,Female,High School,Receptionist,0.0,25000.0
+38.0,Male,Bachelor's Degree,Product Manager,13.0,160000.0
+39.0,Female,Master's Degree,Marketing Manager,14.0,170000.0
+26.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+28.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0
+35.0,Female,PhD,Research Director,11.0,160000.0
+27.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0
+32.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+26.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+28.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0
+35.0,Female,PhD,Research Director,11.0,160000.0
+27.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0
+32.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+28.0,Male,Bachelor's Degree,Software Engineer,3.0,85000.0
+36.0,Female,Master's Degree,Marketing Director,11.0,160000.0
+25.0,Male,Bachelor's Degree,Financial Analyst,1.0,55000.0
+29.0,Female,PhD,Data Scientist,5.0,100000.0
+33.0,Male,Bachelor's Degree,Project Manager,8.0,120000.0
+27.0,Female,Bachelor's Degree,Graphic Designer,2.0,50000.0
+43.0,Male,Master's Degree,Senior Software Engineer,19.0,185000.0
+30.0,Female,Bachelor's Degree,Digital Marketing Specialist,4.0,65000.0
+34.0,Male,Bachelor's Degree,Marketing Manager,9.0,130000.0
+25.0,Female,High School,Sales Associate,0.0,25000.0
+31.0,Male,Master's Degree,Financial Analyst,6.0,100000.0
+27.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+33.0,Male,PhD,Research Scientist,10.0,150000.0
+23.0,Female,High School,Receptionist,0.0,25000.0
+38.0,Male,Bachelor's Degree,Product Manager,13.0,160000.0
+39.0,Female,Master's Degree,Marketing Manager,14.0,170000.0
+26.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+28.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0
+35.0,Female,PhD,Research Director,11.0,160000.0
+27.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0
+32.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+26.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+28.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0
+35.0,Female,PhD,Research Director,11.0,160000.0
+27.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0
+32.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+28.0,Male,Bachelor's Degree,Software Engineer,3.0,85000.0
+36.0,Female,Master's Degree,Marketing Director,11.0,160000.0
+25.0,Male,Bachelor's Degree,Financial Analyst,1.0,55000.0
+29.0,Female,PhD,Data Scientist,5.0,100000.0
+33.0,Male,Bachelor's Degree,Project Manager,8.0,120000.0
+27.0,Female,Bachelor's Degree,Graphic Designer,2.0,50000.0
+43.0,Male,Master's Degree,Senior Software Engineer,19.0,185000.0
+30.0,Female,Bachelor's Degree,Digital Marketing Specialist,4.0,65000.0
+34.0,Male,Bachelor's Degree,Marketing Manager,9.0,130000.0
+25.0,Female,High School,Sales Associate,0.0,25000.0
+31.0,Male,Master's Degree,Financial Analyst,6.0,100000.0
+27.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+33.0,Male,PhD,Research Scientist,10.0,150000.0
+23.0,Female,High School,Receptionist,0.0,25000.0
+38.0,Male,Bachelor's Degree,Product Manager,13.0,160000.0
+39.0,Female,Master's Degree,Marketing Manager,14.0,170000.0
+26.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+28.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0
+35.0,Female,PhD,Research Director,11.0,160000.0
+27.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0
+32.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+26.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+28.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0
+35.0,Female,PhD,Research Director,11.0,160000.0
+27.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0
+32.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+28.0,Male,Bachelor's Degree,Software Engineer,3.0,85000.0
+36.0,Female,Master's Degree,Marketing Director,11.0,160000.0
+25.0,Male,Bachelor's Degree,Financial Analyst,1.0,55000.0
+29.0,Female,PhD,Data Scientist,5.0,100000.0
+33.0,Male,Bachelor's Degree,Project Manager,8.0,120000.0
+27.0,Female,Bachelor's Degree,Graphic Designer,2.0,50000.0
+43.0,Male,Master's Degree,Senior Software Engineer,19.0,185000.0
+30.0,Female,Bachelor's Degree,Digital Marketing Specialist,4.0,65000.0
+34.0,Male,Bachelor's Degree,Marketing Manager,9.0,130000.0
+25.0,Female,High School,Sales Associate,0.0,25000.0
+31.0,Male,Master's Degree,Financial Analyst,6.0,100000.0
+27.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+33.0,Male,PhD,Research Scientist,10.0,150000.0
+23.0,Female,High School,Receptionist,0.0,25000.0
+38.0,Male,Bachelor's Degree,Product Manager,13.0,160000.0
+39.0,Female,Master's Degree,Marketing Manager,14.0,170000.0
+26.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+28.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0
+35.0,Female,PhD,Research Director,11.0,160000.0
+27.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0
+32.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+26.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+28.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0
+35.0,Female,PhD,Research Director,11.0,160000.0
+27.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0
+32.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+28.0,Male,Bachelor's Degree,Software Engineer,3.0,85000.0
+36.0,Female,Master's Degree,Marketing Director,11.0,160000.0
+25.0,Male,Bachelor's Degree,Financial Analyst,1.0,55000.0
+29.0,Female,PhD,Data Scientist,5.0,100000.0
+33.0,Male,Bachelor's Degree,Project Manager,8.0,120000.0
+27.0,Female,Bachelor's Degree,Graphic Designer,2.0,50000.0
+43.0,Male,Master's Degree,Senior Software Engineer,19.0,185000.0
+30.0,Female,Bachelor's Degree,Digital Marketing Specialist,4.0,65000.0
+34.0,Male,Bachelor's Degree,Marketing Manager,9.0,130000.0
+25.0,Female,High School,Sales Associate,0.0,25000.0
+31.0,Male,Master's Degree,Financial Analyst,6.0,100000.0
+27.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+33.0,Male,PhD,Research Scientist,10.0,150000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,85000.0
+35.0,Female,Master's Degree,Marketing Director,11.0,160000.0
+24.0,Male,Bachelor's Degree,Financial Analyst,1.0,55000.0
+28.0,Female,PhD,Data Scientist,5.0,100000.0
+32.0,Male,Bachelor's Degree,Project Manager,8.0,120000.0
+26.0,Female,Bachelor's Degree,Graphic Designer,2.0,50000.0
+41.0,Male,Master's Degree,Senior Software Engineer,19.0,185000.0
+29.0,Female,Bachelor's Degree,Digital Marketing Specialist,4.0,65000.0
+33.0,Male,Bachelor's Degree,Marketing Manager,9.0,130000.0
+24.0,Female,High School,Sales Associate,0.0,25000.0
+30.0,Male,Master's Degree,Financial Analyst,6.0,100000.0
+26.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+32.0,Male,PhD,Research Scientist,10.0,150000.0
+22.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Bachelor's Degree,Product Manager,13.0,160000.0
+38.0,Female,Master's Degree,Marketing Manager,14.0,170000.0
+27.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0
+31.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+29.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0
+34.0,Female,PhD,Research Director,11.0,160000.0
+26.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0
+31.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+27.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0
+31.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+29.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0
+34.0,Female,PhD,Research Director,11.0,160000.0
+26.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0
+31.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,85000.0
+35.0,Female,Master's Degree,Marketing Director,11.0,160000.0
+24.0,Male,Bachelor's Degree,Financial Analyst,1.0,55000.0
+28.0,Female,PhD,Data Scientist,5.0,100000.0
+32.0,Male,Bachelor's Degree,Project Manager,8.0,120000.0
+26.0,Female,Bachelor's Degree,Graphic Designer,2.0,50000.0
+41.0,Male,Master's Degree,Senior Software Engineer,19.0,185000.0
+29.0,Female,Bachelor's Degree,Digital Marketing Specialist,4.0,65000.0
+33.0,Male,Bachelor's Degree,Marketing Manager,9.0,130000.0
+24.0,Female,High School,Sales Associate,0.0,25000.0
+30.0,Male,Master's Degree,Financial Analyst,6.0,100000.0
+26.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+32.0,Male,PhD,Research Scientist,10.0,150000.0
+22.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Bachelor's Degree,Product Manager,13.0,160000.0
+38.0,Female,Master's Degree,Marketing Manager,14.0,170000.0
+27.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0
+31.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+29.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0
+34.0,Female,PhD,Research Director,11.0,160000.0
+26.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0
+31.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+27.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0
+31.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+29.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0
+34.0,Female,PhD,Research Director,11.0,160000.0
+26.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0
+31.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,85000.0
+35.0,Female,Master's Degree,Marketing Director,11.0,160000.0
+24.0,Male,Bachelor's Degree,Financial Analyst,1.0,55000.0
+28.0,Female,PhD,Data Scientist,5.0,100000.0
+32.0,Male,Bachelor's Degree,Project Manager,8.0,120000.0
+26.0,Female,Bachelor's Degree,Graphic Designer,2.0,50000.0
+41.0,Male,Master's Degree,Senior Software Engineer,19.0,185000.0
+29.0,Female,Bachelor's Degree,Digital Marketing Specialist,4.0,65000.0
+33.0,Male,Bachelor's Degree,Marketing Manager,9.0,130000.0
+24.0,Female,High School,Sales Associate,0.0,25000.0
+30.0,Male,Master's Degree,Financial Analyst,6.0,100000.0
+26.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+32.0,Male,PhD,Research Scientist,10.0,150000.0
+22.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Bachelor's Degree,Product Manager,13.0,160000.0
+38.0,Female,Master's Degree,Marketing Manager,14.0,170000.0
+27.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0
+31.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+29.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0
+34.0,Female,PhD,Research Director,11.0,160000.0
+26.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0
+31.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+27.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0
+31.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+29.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0
+34.0,Female,PhD,Research Director,11.0,160000.0
+26.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0
+31.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,85000.0
+35.0,Female,Master's Degree,Marketing Director,11.0,160000.0
+24.0,Male,Bachelor's Degree,Financial Analyst,1.0,55000.0
+28.0,Female,PhD,Data Scientist,5.0,100000.0
+32.0,Male,Bachelor's Degree,Project Manager,8.0,120000.0
+26.0,Female,Bachelor's Degree,Graphic Designer,2.0,50000.0
+41.0,Male,Master's Degree,Senior Software Engineer,19.0,185000.0
+29.0,Female,Bachelor's Degree,Digital Marketing Specialist,4.0,65000.0
+33.0,Male,Bachelor's Degree,Marketing Manager,9.0,130000.0
+24.0,Female,High School,Sales Associate,0.0,25000.0
+30.0,Male,Master's Degree,Financial Analyst,6.0,100000.0
+26.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+32.0,Male,PhD,Research Scientist,10.0,150000.0
+22.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Bachelor's Degree,Product Manager,13.0,160000.0
+38.0,Female,Master's Degree,Marketing Manager,14.0,170000.0
+27.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0
+31.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+29.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0
+34.0,Female,PhD,Research Director,11.0,160000.0
+26.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0
+31.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+27.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0
+31.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+29.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0
+34.0,Female,PhD,Research Director,11.0,160000.0
+26.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0
+31.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,85000.0
+35.0,Female,Master's Degree,Marketing Director,11.0,160000.0
+24.0,Male,Bachelor's Degree,Financial Analyst,1.0,55000.0
+28.0,Female,PhD,Data Scientist,5.0,100000.0
+32.0,Male,Bachelor's Degree,Project Manager,8.0,120000.0
+26.0,Female,Bachelor's Degree,Graphic Designer,2.0,50000.0
+41.0,Male,Master's Degree,Senior Software Engineer,19.0,185000.0
+29.0,Female,Bachelor's Degree,Digital Marketing Specialist,4.0,65000.0
+33.0,Male,Bachelor's Degree,Marketing Manager,9.0,130000.0
+24.0,Female,High School,Sales Associate,0.0,25000.0
+30.0,Male,Master's Degree,Financial Analyst,6.0,100000.0
+26.0,Female,Bachelor's Degree,Social Media Man,7.0,100000.0
+31.0,Male,Bachelor's Degree,Software Engineer,7.0,120000.0
+26.0,Female,Bachelor's Degree,Graphic Designer,2.0,50000.0
+33.0,Male,Master's Degree,Marketing Manager,9.0,130000.0
+29.0,Female,High School,Customer Service Representative,3.0,35000.0
+36.0,Male,PhD,Research Scientist,13.0,160000.0
+27.0,Female,Bachelor's Degree,Marketing Coordinator,2.0,50000.0
+31.0,Male,Bachelor's Degree,Project Manager,6.0,100000.0
+28.0,Female,Master's Degree,Financial Analyst,4.0,80000.0
+25.0,Male,Bachelor's Degree,Software Engineer,1.0,60000.0
+30.0,Female,Bachelor's Degree,Sales Manager,5.0,90000.0
+34.0,Male,PhD,Research Director,11.0,170000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,180000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,50000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,160000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,85000.0
+34.0,Male,PhD,Research Director,11.0,170000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,180000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,50000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,160000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,85000.0
+34.0,Male,PhD,Research Director,11.0,170000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,180000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,50000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,160000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,85000.0
+34.0,Male,PhD,Research Director,11.0,170000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,180000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,50000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,160000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,85000.0
+34.0,Male,PhD,Research Director,11.0,170000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,180000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,50000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,160000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,85000.0
+34.0,Male,PhD,Research Director,11.0,170000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,180000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,50000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,160000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,85000.0
+34.0,Male,PhD,Research Director,11.0,170000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,180000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,50000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,160000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,85000.0
+34.0,Male,PhD,Research Director,11.0,170000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,180000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,50000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,160000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,85000.0
+34.0,Male,PhD,Research Director,11.0,170000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,180000.0
+28.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,60000.0
+33.0,Male,Master's Degree,Software Engineer,9.0,120000.0
+26.0,Female,Bachelor's Degree,Graphic Designer,1.0,45000.0
+29.0,Male,Bachelor's Degree,Product Manager,5.0,80000.0
+35.0,Female,PhD,Research Scientist,11.0,150000.0
+27.0,Male,Bachelor's Degree,Software Engineer,2.0,65000.0
+31.0,Female,Bachelor's Degree,Marketing Manager,7.0,100000.0
+28.0,Male,Master's Degree,Financial Analyst,4.0,90000.0
+24.0,Female,Bachelor's Degree,Marketing Analyst,0.0,40000.0
+30.0,Male,Bachelor's Degree,Project Manager,6.0,110000.0
+34.0,Female,PhD,Research Director,12.0,170000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,75000.0
+33.0,Female,Master's Degree,Marketing Manager,8.0,120000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+25.0,Female,High School,Customer Service Representative,1.0,30000.0
+36.0,Male,PhD,Research Scientist,13.0,180000.0
+39.0,Female,Bachelor's Degree,Financial Manager,15.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,1.0,50000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+28.0,Male,Bachelor's Degree,Marketing Analyst,3.0,65000.0
+32.0,Female,Bachelor's Degree,Product Manager,7.0,110000.0
+24.0,Male,High School,Delivery Driver,0.0,28000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,210000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,170000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+34.0,Male,PhD,Research Director,11.0,160000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,170000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+34.0,Male,PhD,Research Director,11.0,160000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,170000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+34.0,Male,PhD,Research Director,11.0,160000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,170000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+34.0,Male,PhD,Research Director,11.0,160000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,170000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+34.0,Male,PhD,Research Director,11.0,160000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,170000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+34.0,Male,PhD,Research Director,11.0,160000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,170000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+34.0,Male,PhD,Research Director,11.0,160000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+29.0,Male,Bachelor's Degree,Software Engineer,3.0,75000.0
+32.0,Female,Master's Degree,Marketing Manager,8.0,120000.0
+27.0,Male,Bachelor's Degree,Product Manager,2.0,65000.0
+30.0,Female,PhD,Data Scientist,6.0,100000.0
+36.0,Male,Bachelor's Degree,Financial Analyst,11.0,150000.0
+28.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,60000.0
+33.0,Male,Master's Degree,Software Engineer,9.0,120000.0
+26.0,Female,Bachelor's Degree,Graphic Designer,1.0,45000.0
+29.0,Male,Bachelor's Degree,Product Manager,5.0,80000.0
+35.0,Female,PhD,Research Scientist,11.0,150000.0
+27.0,Male,Bachelor's Degree,Software Engineer,2.0,65000.0
+31.0,Female,Bachelor's Degree,Marketing Manager,7.0,100000.0
+28.0,Male,Master's Degree,Financial Analyst,4.0,90000.0
+24.0,Female,Bachelor's Degree,Marketing Analyst,0.0,40000.0
+30.0,Male,Bachelor's Degree,Project Manager,6.0,110000.0
+34.0,Female,PhD,Research Director,12.0,170000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,75000.0
+33.0,Female,Master's Degree,Marketing Manager,8.0,120000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+25.0,Female,High School,Customer Service Representative,1.0,30000.0
+36.0,Male,PhD,Research Scientist,13.0,180000.0
+39.0,Female,Bachelor's Degree,Financial Manager,15.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,1.0,50000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+28.0,Male,Bachelor's Degree,Marketing Analyst,3.0,65000.0
+32.0,Female,Bachelor's Degree,Product Manager,7.0,110000.0
+24.0,Male,High School,Delivery Driver,0.0,28000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,210000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,170000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+34.0,Male,PhD,Research Director,11.0,160000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,170000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+34.0,Male,PhD,Research Director,11.0,160000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,170000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+34.0,Male,PhD,Research Director,11.0,160000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,170000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+34.0,Male,PhD,Research Director,11.0,160000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,170000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+34.0,Male,PhD,Research Director,11.0,160000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,170000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+34.0,Male,PhD,Research Director,11.0,160000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,170000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+34.0,Male,PhD,Research Director,11.0,160000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+27.0,Male,phD,Marketing Coordinator,7.0,120000.0
+28.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,60000.0
+33.0,Male,Master's Degree,Software Engineer,8.0,120000.0
+27.0,Female,Bachelor's Degree,Product Manager,2.0,65000.0
+30.0,Male,PhD,Data Scientist,6.0,100000.0
+36.0,Female,Bachelor's Degree,Financial Analyst,11.0,150000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,3.0,65000.0
+32.0,Female,Master's Degree,Software Engineer,9.0,120000.0
+26.0,Male,Bachelor's Degree,Graphic Designer,1.0,45000.0
+29.0,Female,Bachelor's Degree,Product Manager,5.0,80000.0
+35.0,Male,PhD,Research Scientist,11.0,150000.0
+27.0,Male,Bachelor's Degree,Software Engineer,2.0,65000.0
+31.0,Female,Bachelor's Degree,Marketing Manager,7.0,100000.0
+28.0,Male,Master's Degree,Financial Analyst,4.0,90000.0
+24.0,Female,Bachelor's Degree,Marketing Analyst,0.0,40000.0
+30.0,Male,Bachelor's Degree,Project Manager,6.0,110000.0
+34.0,Female,PhD,Research Director,12.0,170000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,75000.0
+33.0,Female,Master's Degree,Marketing Manager,8.0,120000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+25.0,Female,High School,Customer Service Representative,1.0,30000.0
+36.0,Male,PhD,Research Scientist,13.0,180000.0
+39.0,Female,Bachelor's Degree,Financial Manager,15.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,1.0,50000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+28.0,Male,Bachelor's Degree,Marketing Analyst,3.0,65000.0
+32.0,Female,Bachelor's Degree,Product Manager,7.0,110000.0
+24.0,Male,High School,Delivery Driver,0.0,28000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,210000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,170000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+34.0,Male,PhD,Research Director,11.0,160000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,170000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+34.0,Male,PhD,Research Director,11.0,160000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,170000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+34.0,Male,PhD,Research Director,11.0,160000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,170000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+34.0,Male,PhD,Research Director,11.0,160000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,170000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+34.0,Male,PhD,Research Director,11.0,160000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,170000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+34.0,Male,PhD,Research Director,11.0,160000.0
+28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0
+31.0,Female,PhD,Data Scientist,8.0,140000.0
+29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0
+36.0,Female,PhD,Research Scientist,12.0,170000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
